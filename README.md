@@ -1,1 +1,8 @@
 # IrrigationSystem
+In this project I developed a Raspberry Pi based IoT device to implement an weather Monitoring System.  The data from this monitoring system will be used to decide on how much water to be needed to irrigate and to “turn on” a virtual sprinklersystem. The system simulates irrigationonce per hour (by showing a short message  on  LCD)and then turning  it  off  after  the  amount  of  time needed to deliver the requisite  amount  of water.  The system assumes  that  the  irrigation  system  delivers  1020  gallons  of water per hour, and the area to be irrigated is 200 square feet of lawn.
+the weather station will:
+1. Sense  temperature  and  humidity  approximately  every  minute,  and  generate  hourly averages of both quantities. Display those values on the LCD
+2. Connect  over  the  Internet  once  per  hour  and  extract  the  CIMIS  data  for  the nearest weather station. 
+3. Adjust  the  CIMIS-computed  ET  value  based  on  the  hourly-averaged  temperature  and humidity computed in step 1 above. For simplicity, the system linearly derate the ET values with  both  quantities.  If  for  example  the  CIMIS-reported  humidity  is  50%  and  the  one measured locally is 75% then the system assumes a derating factor of 1.5 (75%/50%), so the CIMIS ET value will be divided by 1.5 to estimate the local ET value, which is used to compute the amount of water needed for irrigation. The system can also apply a linear derating procedure for temperature. 
+4. The system displays  a  rolling  message  comparing  the  CIMIS  provided  temperature  and humidity values, the computed ET values (local and CIMIS) and the potentialwater savings or additional water used. 
+5. Also can display when the water is turned on and when it is turned off
