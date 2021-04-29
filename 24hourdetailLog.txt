@@ -1,0 +1,6864 @@
+Program is starting ... 
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:12.3 Humid:0
+
+Time passed : 0.13 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:12.3 Humid:0
+
+Time passed : 1.15 min
+
+Data #2: Temp:12.2 Humid:67
+
+Time passed : 2.19 min
+
+Data #3: Temp:24.6 Humid:65
+
+Time passed : 3.11 min
+
+Data #4: Temp:24.6 Humid:67
+
+Time passed : 4.13 min
+
+Data #5: Temp:24.6 Humid:65
+
+Time passed : 5.11 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:24.6 Humid:0
+
+Time passed : 6.11 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:24.7 Humid:0
+
+Time passed : 7.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:12.4 Humid:0
+
+Time passed : 8.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:12.4 Humid:0
+
+Time passed : 9.12 min
+
+Data #10: Temp:12.4 Humid:66
+
+Time passed : 10.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:12.4 Humid:0
+
+Time passed : 11.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:12.4 Humid:0
+
+Time passed : 12.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:24.8 Humid:0
+
+Time passed : 13.12 min
+
+Data #14: Temp:25.0 Humid:65
+
+Time passed : 14.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:24.9 Humid:0
+
+Time passed : 15.37 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:25.3 Humid:0
+
+Time passed : 16.14 min
+
+Data #17: Temp:24.9 Humid:64
+
+Time passed : 17.22 min
+
+Data #18: Temp:25.0 Humid:64
+
+Time passed : 18.14 min
+
+Data #19: Temp:25.0 Humid:63
+
+Time passed : 19.15 min
+
+Data #20: Temp:25.5 Humid:62
+
+Time passed : 20.41 min
+
+Data #21: Temp:25.5 Humid:62
+
+Time passed : 21.26 min
+
+Data #22: Temp:25.5 Humid:62
+
+Time passed : 22.26 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:25.6 Humid:0
+
+Time passed : 23.23 min
+
+Data #24: Temp:25.6 Humid:61
+
+Time passed : 24.51 min
+
+Data #25: Temp:25.7 Humid:61
+
+Time passed : 25.25 min
+
+Data #26: Temp:25.7 Humid:61
+
+Time passed : 26.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:25.1 Humid:0
+
+Time passed : 27.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:25.1 Humid:0
+
+Time passed : 28.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:25.200000000000003 Humid:0
+
+Time passed : 29.13 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:25.7 Humid:0
+
+Time passed : 30.15 min
+
+Data #31: Temp:25.1 Humid:60
+
+Time passed : 31.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:25.1 Humid:0
+
+Time passed : 32.16 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:25.1 Humid:0
+
+Time passed : 33.14 min
+
+Data #34: Temp:25.1 Humid:59
+
+Time passed : 34.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:25.7 Humid:0
+
+Time passed : 35.73 min
+
+Data #36: Temp:25.9 Humid:59
+
+Time passed : 36.26 min
+
+Data #37: Temp:25.8 Humid:59
+
+Time passed : 37.29 min
+
+Data #38: Temp:13.0 Humid:58
+
+Time passed : 38.30 min
+
+Data #39: Temp:25.9 Humid:57
+
+Time passed : 39.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:13.0 Humid:0
+
+Time passed : 40.26 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:26.0 Humid:0
+
+Time passed : 41.28 min
+
+Data #42: Temp:26.0 Humid:58
+
+Time passed : 42.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:26.0 Humid:0
+
+Time passed : 43.38 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:13.0 Humid:0
+
+Time passed : 44.32 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:26.0 Humid:0
+
+Time passed : 45.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:13.0 Humid:0
+
+Time passed : 46.34 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:13.0 Humid:0
+
+Time passed : 47.27 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:13.0 Humid:0
+
+Time passed : 48.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:13.1 Humid:0
+
+Time passed : 49.40 min
+
+Data #50: Temp:26.3 Humid:57
+
+Time passed : 50.21 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:13.1 Humid:0
+
+Time passed : 51.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:26.1 Humid:0
+
+Time passed : 52.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:13.1 Humid:0
+
+Time passed : 53.16 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:26.1 Humid:0
+
+Time passed : 54.22 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:26.2 Humid:0
+
+Time passed : 55.22 min
+
+Data #56: Temp:13.1 Humid:55
+
+Time passed : 56.16 min
+
+Data #57: Temp:26.1 Humid:55
+
+Time passed : 57.16 min
+
+Data #58: Temp:26.2 Humid:57
+
+Time passed : 58.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:26.1 Humid:0
+
+Time passed : 59.16 min
+
+-----------------1 hour has passed!------------------------
+
+Avg local temp:21.64 Avg local humidity:26.48 Local ET0:0.01
+
+CIMIS_ETO: 0.01 CIMIS_HUMIDITY: 32 CIMIS_TEMPERATURE: 22.83 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:26.3 Humid:57
+
+Time passed : 59.36 min
+
+Data #1: Temp:26.2 Humid:57
+
+Time passed : 60.27 min
+
+Data #2: Temp:26.3 Humid:55
+
+Time passed : 61.25 min
+
+Data #3: Temp:26.3 Humid:55
+
+Time passed : 62.25 min
+
+Data #4: Temp:26.3 Humid:55
+
+Time passed : 63.25 min
+
+Data #5: Temp:26.3 Humid:55
+
+Time passed : 64.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:13.1 Humid:57
+
+Time passed : 65.29 min
+
+Data #7: Temp:26.3 Humid:56
+
+Time passed : 66.27 min
+
+Amount of water needed to irrigate without adjustment: 12.40
+
+Amount of water needed to irrigate with adjustment: 12.40
+
+Turing pump ON for 0.15 min
+----------------Turning Pump off ----------------------
+
+Data #8: Temp:26.3 Humid:56
+
+Time passed : 67.36 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:26.3 Humid:57
+
+Time passed : 68.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:26.4 Humid:57
+
+Time passed : 69.31 min
+
+Data #11: Temp:13.2 Humid:55
+
+Time passed : 70.27 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:26.4 Humid:57
+
+Time passed : 71.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:13.2 Humid:57
+
+Time passed : 72.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:26.4 Humid:57
+
+Time passed : 73.27 min
+
+Data #15: Temp:13.2 Humid:56
+
+Time passed : 74.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:26.5 Humid:57
+
+Time passed : 75.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:26.5 Humid:57
+
+Time passed : 76.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:13.2 Humid:57
+
+Time passed : 77.33 min
+
+Data #19: Temp:13.2 Humid:54
+
+Time passed : 78.28 min
+
+Data #20: Temp:26.4 Humid:56
+
+Time passed : 79.34 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:26.6 Humid:57
+
+Time passed : 80.32 min
+
+Data #22: Temp:26.5 Humid:56
+
+Time passed : 81.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:26.6 Humid:57
+
+Time passed : 82.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:13.2 Humid:57
+
+Time passed : 83.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:26.7 Humid:57
+
+Time passed : 84.38 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:13.3 Humid:57
+
+Time passed : 85.38 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:26.7 Humid:57
+
+Time passed : 86.33 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:26.7 Humid:57
+
+Time passed : 87.31 min
+
+Data #29: Temp:26.7 Humid:55
+
+Time passed : 88.35 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:13.3 Humid:57
+
+Time passed : 89.37 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:26.7 Humid:57
+
+Time passed : 90.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:26.7 Humid:57
+
+Time passed : 91.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:13.3 Humid:57
+
+Time passed : 92.43 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:26.6 Humid:57
+
+Time passed : 93.31 min
+
+Data #35: Temp:13.3 Humid:54
+
+Time passed : 94.30 min
+
+Data #36: Temp:26.7 Humid:55
+
+Time passed : 95.41 min
+
+Data #37: Temp:26.7 Humid:55
+
+Time passed : 96.41 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:26.7 Humid:57
+
+Time passed : 97.30 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:26.6 Humid:57
+
+Time passed : 98.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:13.4 Humid:57
+
+Time passed : 99.32 min
+
+Data #41: Temp:13.3 Humid:54
+
+Time passed : 100.30 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:13.3 Humid:57
+
+Time passed : 101.34 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:13.3 Humid:57
+
+Time passed : 102.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:26.7 Humid:57
+
+Time passed : 103.38 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:13.4 Humid:57
+
+Time passed : 104.31 min
+
+Data #46: Temp:13.3 Humid:55
+
+Time passed : 105.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:13.4 Humid:57
+
+Time passed : 106.31 min
+
+Data #48: Temp:26.7 Humid:55
+
+Time passed : 107.44 min
+
+Data #49: Temp:13.4 Humid:55
+
+Time passed : 108.33 min
+
+Data #50: Temp:26.7 Humid:53
+
+Time passed : 109.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:13.3 Humid:57
+
+Time passed : 110.39 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:26.7 Humid:57
+
+Time passed : 111.39 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:26.8 Humid:57
+
+Time passed : 112.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:26.8 Humid:57
+
+Time passed : 113.34 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:13.4 Humid:57
+
+Time passed : 114.58 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:26.9 Humid:57
+
+Time passed : 115.32 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:13.4 Humid:57
+
+Time passed : 116.34 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:13.4 Humid:57
+
+Time passed : 117.34 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:26.8 Humid:57
+
+Time passed : 118.36 min
+
+-----------------2 hour has passed!------------------------
+
+Avg local temp:21.83 Avg local humidity:56.77 Local ET0: 0
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 51 CIMIS_TEMPERATURE: 22.89 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:26.9 Humid:57
+
+Time passed : 118.52 min
+
+Data #1: Temp:26.9 Humid:55
+
+Time passed : 119.57 min
+
+Data #2: Temp:26.9 Humid:55
+
+Time passed : 120.50 min
+
+Data #3: Temp:26.9 Humid:55
+
+Time passed : 121.50 min
+
+Data #4: Temp:13.4 Humid:55
+
+Time passed : 122.46 min
+
+Data #5: Temp:26.9 Humid:55
+
+Time passed : 123.48 min
+
+Data #6: Temp:27.0 Humid:55
+
+Time passed : 124.46 min
+
+Data #7: Temp:27.0 Humid:55
+
+Time passed : 125.47 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 2
+Data #8: Temp:13.4 Humid:55
+
+Time passed : 126.46 min
+
+Data #9: Temp:27.0 Humid:54
+
+Time passed : 127.61 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:25.8 Humid:57
+
+Time passed : 128.46 min
+
+Data #11: Temp:26.9 Humid:55
+
+Time passed : 129.46 min
+
+Data #12: Temp:27.0 Humid:55
+
+Time passed : 130.46 min
+
+Data #13: Temp:26.9 Humid:55
+
+Time passed : 131.58 min
+
+Data #14: Temp:27.0 Humid:55
+
+Time passed : 132.58 min
+
+Data #15: Temp:27.0 Humid:55
+
+Time passed : 133.69 min
+
+Data #16: Temp:27.1 Humid:55
+
+Time passed : 134.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:27.0 Humid:57
+
+Time passed : 135.45 min
+
+Data #18: Temp:13.4 Humid:55
+
+Time passed : 136.68 min
+
+Data #19: Temp:27.1 Humid:55
+
+Time passed : 137.55 min
+
+Data #20: Temp:25.8 Humid:55
+
+Time passed : 138.53 min
+
+Data #21: Temp:25.8 Humid:55
+
+Time passed : 139.51 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:25.8 Humid:57
+
+Time passed : 140.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:25.8 Humid:57
+
+Time passed : 141.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:25.8 Humid:57
+
+Time passed : 142.48 min
+
+Data #25: Temp:25.8 Humid:55
+
+Time passed : 143.52 min
+
+Data #26: Temp:13.4 Humid:55
+
+Time passed : 144.48 min
+
+Data #27: Temp:13.4 Humid:56
+
+Time passed : 145.48 min
+
+Data #28: Temp:27.0 Humid:54
+
+Time passed : 146.46 min
+
+Data #29: Temp:26.9 Humid:54
+
+Time passed : 147.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:27.0 Humid:57
+
+Time passed : 148.46 min
+
+Data #31: Temp:26.9 Humid:55
+
+Time passed : 149.58 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:27.1 Humid:57
+
+Time passed : 150.47 min
+
+Data #33: Temp:26.9 Humid:55
+
+Time passed : 151.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:27.1 Humid:57
+
+Time passed : 152.47 min
+
+Data #35: Temp:27.0 Humid:55
+
+Time passed : 153.49 min
+
+Data #36: Temp:27.0 Humid:55
+
+Time passed : 154.74 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:27.1 Humid:57
+
+Time passed : 155.47 min
+
+Data #38: Temp:25.8 Humid:55
+
+Time passed : 156.55 min
+
+Data #39: Temp:25.8 Humid:56
+
+Time passed : 157.51 min
+
+Data #40: Temp:25.8 Humid:55
+
+Time passed : 158.51 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:27.1 Humid:57
+
+Time passed : 159.47 min
+
+Data #42: Temp:25.8 Humid:55
+
+Time passed : 160.51 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:27.1 Humid:57
+
+Time passed : 161.48 min
+
+Data #44: Temp:27.2 Humid:54
+
+Time passed : 163.16 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:27.2 Humid:57
+
+Time passed : 163.52 min
+
+Data #46: Temp:25.9 Humid:55
+
+Time passed : 164.61 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:27.2 Humid:57
+
+Time passed : 165.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:27.4 Humid:57
+
+Time passed : 166.50 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:27.2 Humid:57
+
+Time passed : 167.75 min
+
+Data #50: Temp:27.3 Humid:53
+
+Time passed : 168.48 min
+
+Data #51: Temp:27.2 Humid:55
+
+Time passed : 169.71 min
+
+Data #52: Temp:27.3 Humid:54
+
+Time passed : 170.71 min
+
+Data #53: Temp:27.3 Humid:55
+
+Time passed : 171.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:26.0 Humid:57
+
+Time passed : 172.75 min
+
+Data #55: Temp:26.0 Humid:55
+
+Time passed : 173.54 min
+
+Data #56: Temp:27.3 Humid:55
+
+Time passed : 174.68 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:27.2 Humid:57
+
+Time passed : 175.77 min
+
+Data #58: Temp:26.0 Humid:55
+
+Time passed : 176.51 min
+
+Data #59: Temp:27.2 Humid:55
+
+Time passed : 177.66 min
+
+-----------------3 hour has passed!------------------------
+Avg local temp:25.99 Avg local humidity:56.46 Local ET0: 0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 71 CIMIS_TEMPERATURE: 22.94 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:26.0 Humid:55
+
+Time passed : 177.86 min
+
+Data #1: Temp:26.0 Humid:54
+
+Time passed : 179.03 min
+
+Data #2: Temp:26.0 Humid:55
+
+Time passed : 179.90 min
+
+Data #3: Temp:25.9 Humid:55
+
+Time passed : 180.88 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:27.3 Humid:55
+
+Time passed : 181.82 min
+
+Data #5: Temp:27.3 Humid:55
+
+Time passed : 182.90 min
+
+Data #6: Temp:25.9 Humid:55
+
+Time passed : 183.86 min
+
+Data #7: Temp:27.3 Humid:55
+
+Time passed : 184.87 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 3
+Data #8: Temp:27.4 Humid:54
+
+Time passed : 186.15 min
+
+Data #9: Temp:26.0 Humid:55
+
+Time passed : 186.88 min
+
+Data #10: Temp:27.4 Humid:55
+
+Time passed : 187.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:27.3 Humid:55
+
+Time passed : 188.94 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:27.3 Humid:55
+
+Time passed : 189.98 min
+
+Data #13: Temp:26.0 Humid:53
+
+Time passed : 190.85 min
+
+Data #14: Temp:27.3 Humid:53
+
+Time passed : 191.85 min
+
+Data #15: Temp:27.3 Humid:55
+
+Time passed : 192.96 min
+
+Data #16: Temp:27.4 Humid:55
+
+Time passed : 193.89 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:27.4 Humid:55
+
+Time passed : 194.91 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:26.0 Humid:55
+
+Time passed : 195.89 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:26.0 Humid:55
+
+Time passed : 196.89 min
+
+Data #20: Temp:27.4 Humid:54
+
+Time passed : 197.85 min
+
+Data #21: Temp:27.4 Humid:55
+
+Time passed : 199.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:27.4 Humid:55
+
+Time passed : 199.87 min
+
+Data #23: Temp:26.0 Humid:55
+
+Time passed : 201.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:27.4 Humid:55
+
+Time passed : 201.86 min
+
+Data #25: Temp:27.4 Humid:55
+
+Time passed : 203.18 min
+
+Data #26: Temp:26.0 Humid:55
+
+Time passed : 203.90 min
+
+Data #27: Temp:26.0 Humid:55
+
+Time passed : 204.90 min
+
+Data #28: Temp:27.4 Humid:54
+
+Time passed : 206.16 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:27.5 Humid:55
+
+Time passed : 206.96 min
+
+Data #30: Temp:26.0 Humid:55
+
+Time passed : 208.01 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:27.4 Humid:55
+
+Time passed : 208.98 min
+
+Data #32: Temp:27.3 Humid:55
+
+Time passed : 210.00 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:26.0 Humid:55
+
+Time passed : 211.04 min
+
+Data #34: Temp:27.4 Humid:54
+
+Time passed : 211.90 min
+
+Data #35: Temp:27.4 Humid:53
+
+Time passed : 212.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:26.0 Humid:55
+
+Time passed : 213.93 min
+
+Data #37: Temp:25.9 Humid:55
+
+Time passed : 215.08 min
+
+Data #38: Temp:25.8 Humid:55
+
+Time passed : 215.95 min
+
+Data #39: Temp:13.4 Humid:55
+
+Time passed : 216.95 min
+
+Data #40: Temp:26.9 Humid:55
+
+Time passed : 218.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:26.9 Humid:55
+
+Time passed : 218.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:13.4 Humid:55
+
+Time passed : 219.89 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:13.3 Humid:55
+
+Time passed : 220.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:26.7 Humid:55
+
+Time passed : 221.91 min
+
+Data #45: Temp:26.8 Humid:55
+
+Time passed : 222.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:26.6 Humid:55
+
+Time passed : 223.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:13.4 Humid:55
+
+Time passed : 224.98 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:13.3 Humid:55
+
+Time passed : 225.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:26.7 Humid:55
+
+Time passed : 226.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:13.3 Humid:55
+
+Time passed : 227.92 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:13.2 Humid:55
+
+Time passed : 228.92 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:13.3 Humid:55
+
+Time passed : 229.89 min
+
+Data #53: Temp:26.4 Humid:54
+
+Time passed : 230.89 min
+
+Data #54: Temp:26.4 Humid:55
+
+Time passed : 231.94 min
+
+Data #55: Temp:13.2 Humid:55
+
+Time passed : 232.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:13.3 Humid:55
+
+Time passed : 233.89 min
+
+Data #57: Temp:13.2 Humid:55
+
+Time passed : 234.93 min
+
+Data #58: Temp:13.2 Humid:55
+
+Time passed : 235.95 min
+
+Data #59: Temp:13.2 Humid:56
+
+Time passed : 237.06 min
+
+-----------------4 hour has passed!------------------------
+
+Avg local temp:24.26 Avg local humidity:55.76 Local ET0: 0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 78 CIMIS_TEMPERATURE: 22.94 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:26.5 Humid:55
+
+Time passed : 237.20 min
+
+Data #1: Temp:26.4 Humid:55
+
+Time passed : 238.18 min
+
+Data #2: Temp:26.4 Humid:54
+
+Time passed : 239.17 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:26.3 Humid:55
+
+Time passed : 240.24 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:13.0 Humid:55
+
+Time passed : 241.26 min
+
+Data #5: Temp:26.1 Humid:57
+
+Time passed : 242.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:26.1 Humid:55
+
+Time passed : 243.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:26.2 Humid:55
+
+Time passed : 244.19 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 4
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:26.1 Humid:55
+
+Time passed : 245.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:13.0 Humid:55
+
+Time passed : 246.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:26.1 Humid:55
+
+Time passed : 247.19 min
+
+Data #11: Temp:25.200000000000003 Humid:56
+
+Time passed : 248.26 min
+
+Data #12: Temp:25.9 Humid:54
+
+Time passed : 249.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:25.1 Humid:55
+
+Time passed : 250.30 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:25.200000000000003 Humid:55
+
+Time passed : 251.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:25.7 Humid:55
+
+Time passed : 252.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:25.6 Humid:55
+
+Time passed : 253.25 min
+
+Data #17: Temp:25.1 Humid:56
+
+Time passed : 254.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:25.1 Humid:55
+
+Time passed : 255.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:25.1 Humid:55
+
+Time passed : 256.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:25.1 Humid:55
+
+Time passed : 257.19 min
+
+Data #21: Temp:25.1 Humid:54
+
+Time passed : 258.20 min
+
+Data #22: Temp:25.6 Humid:54
+
+Time passed : 259.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:25.5 Humid:55
+
+Time passed : 260.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:25.6 Humid:55
+
+Time passed : 261.33 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:25.6 Humid:55
+
+Time passed : 262.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:25.6 Humid:55
+
+Time passed : 263.33 min
+
+Data #27: Temp:25.1 Humid:56
+
+Time passed : 264.30 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:25.6 Humid:55
+
+Time passed : 265.30 min
+
+Data #29: Temp:25.6 Humid:58
+
+Time passed : 266.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:25.1 Humid:55
+
+Time passed : 267.34 min
+
+Data #31: Temp:25.6 Humid:57
+
+Time passed : 268.26 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:25.6 Humid:55
+
+Time passed : 269.42 min
+
+Data #33: Temp:25.6 Humid:57
+
+Time passed : 270.24 min
+
+Data #34: Temp:25.5 Humid:57
+
+Time passed : 271.25 min
+
+Data #35: Temp:25.6 Humid:57
+
+Time passed : 272.63 min
+
+Data #36: Temp:25.6 Humid:57
+
+Time passed : 273.23 min
+
+Data #37: Temp:25.5 Humid:56
+
+Time passed : 274.21 min
+
+Data #38: Temp:25.4 Humid:57
+
+Time passed : 275.23 min
+
+Data #39: Temp:25.4 Humid:57
+
+Time passed : 276.31 min
+
+Data #40: Temp:25.5 Humid:57
+
+Time passed : 277.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:25.5 Humid:55
+
+Time passed : 278.22 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:25.0 Humid:55
+
+Time passed : 279.22 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:25.6 Humid:55
+
+Time passed : 280.43 min
+
+Data #44: Temp:25.1 Humid:57
+
+Time passed : 281.30 min
+
+Data #45: Temp:25.5 Humid:55
+
+Time passed : 282.22 min
+
+Data #46: Temp:25.5 Humid:56
+
+Time passed : 283.30 min
+
+Data #47: Temp:25.0 Humid:59
+
+Time passed : 284.28 min
+
+Data #48: Temp:25.5 Humid:56
+
+Time passed : 285.43 min
+
+Data #49: Temp:25.5 Humid:56
+
+Time passed : 286.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:25.1 Humid:55
+
+Time passed : 287.28 min
+
+Data #51: Temp:25.6 Humid:54
+
+Time passed : 288.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:25.1 Humid:55
+
+Time passed : 289.36 min
+
+Data #53: Temp:25.1 Humid:55
+
+Time passed : 290.23 min
+
+Data #54: Temp:25.5 Humid:56
+
+Time passed : 291.36 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:25.6 Humid:55
+
+Time passed : 292.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:25.6 Humid:55
+
+Time passed : 293.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:25.1 Humid:55
+
+Time passed : 294.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:25.1 Humid:55
+
+Time passed : 295.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:25.6 Humid:55
+
+Time passed : 296.23 min
+-----------------5 hour has passed!------------------------
+
+Avg local temp:25.51 Avg local humidity:56.43 local ET0: 0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 84 CIMIS_TEMPERATURE: 22.94 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:25.1 Humid:56
+
+Time passed : 296.37 min
+
+Data #1: Temp:25.6 Humid:56
+
+Time passed : 297.43 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #2: Temp:25.1 Humid:56
+
+Time passed : 298.34 min
+
+Data #3: Temp:25.5 Humid:56
+
+Time passed : 299.43 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:25.0 Humid:56
+
+Time passed : 300.38 min
+
+Data #5: Temp:25.0 Humid:57
+
+Time passed : 301.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:25.4 Humid:56
+
+Time passed : 302.47 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:25.5 Humid:56
+
+Time passed : 303.36 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 5
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:25.0 Humid:56
+
+Time passed : 304.58 min
+
+Data #9: Temp:25.1 Humid:56
+
+Time passed : 305.45 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:25.5 Humid:56
+
+Time passed : 306.43 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:25.1 Humid:56
+
+Time passed : 307.38 min
+
+Data #12: Temp:25.6 Humid:56
+
+Time passed : 308.38 min
+
+Data #13: Temp:25.1 Humid:56
+
+Time passed : 309.38 min
+
+Data #14: Temp:25.1 Humid:54
+
+Time passed : 310.36 min
+
+Data #15: Temp:25.5 Humid:54
+
+Time passed : 311.36 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:25.5 Humid:56
+
+Time passed : 312.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:25.6 Humid:56
+
+Time passed : 313.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:25.6 Humid:56
+
+Time passed : 314.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:25.6 Humid:56
+
+Time passed : 315.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:25.1 Humid:56
+
+Time passed : 316.54 min
+
+Data #21: Temp:25.1 Humid:57
+
+Time passed : 317.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:25.1 Humid:56
+
+Time passed : 318.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:25.1 Humid:56
+
+Time passed : 319.43 min
+
+Data #24: Temp:25.1 Humid:56
+
+Time passed : 320.43 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:25.5 Humid:56
+
+Time passed : 321.52 min
+
+Data #26: Temp:25.6 Humid:56
+
+Time passed : 322.41 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:25.1 Humid:56
+
+Time passed : 323.45 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:25.1 Humid:56
+
+Time passed : 324.60 min
+
+Data #29: Temp:25.1 Humid:56
+
+Time passed : 325.39 min
+
+Data #30: Temp:25.4 Humid:58
+
+Time passed : 326.40 min
+
+Data #31: Temp:25.0 Humid:55
+
+Time passed : 327.38 min
+
+Data #32: Temp:25.4 Humid:55
+
+Time passed : 328.38 min
+
+Data #33: Temp:25.2 Humid:55
+
+Time passed : 329.38 min
+
+Data #34: Temp:25.2 Humid:57
+
+Time passed : 330.52 min
+
+Data #35: Temp:25.3 Humid:57
+
+Time passed : 331.48 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:25.0 Humid:56
+
+Time passed : 332.71 min
+
+Data #37: Temp:25.4 Humid:57
+
+Time passed : 333.48 min
+
+Data #38: Temp:24.9 Humid:57
+
+Time passed : 334.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:25.2 Humid:56
+
+Time passed : 335.44 min
+
+Data #40: Temp:25.2 Humid:57
+
+Time passed : 336.45 min
+
+Data #41: Temp:24.8 Humid:57
+
+Time passed : 337.45 min
+
+Data #42: Temp:25.0 Humid:57
+
+Time passed : 338.71 min
+
+Data #43: Temp:25.0 Humid:57
+
+Time passed : 339.56 min
+
+Data #44: Temp:24.8 Humid:58
+
+Time passed : 340.41 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:12.4 Humid:56
+
+Time passed : 341.43 min
+
+Data #46: Temp:12.4 Humid:56
+
+Time passed : 342.39 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:12.4 Humid:56
+
+Time passed : 343.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:24.9 Humid:56
+
+Time passed : 344.45 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:24.9 Humid:56
+
+Time passed : 345.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:24.8 Humid:56
+
+Time passed : 346.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:12.4 Humid:56
+
+Time passed : 347.46 min
+
+Data #52: Temp:24.7 Humid:59
+
+Time passed : 348.52 min
+
+Data #53: Temp:24.7 Humid:57
+
+Time passed : 349.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:12.3 Humid:56
+
+Time passed : 350.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:24.6 Humid:56
+
+Time passed : 351.41 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:12.3 Humid:56
+
+Time passed : 352.43 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:12.3 Humid:56
+
+Time passed : 353.41 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:12.3 Humid:56
+
+Time passed : 354.41 min
+
+Data #59: Temp:12.3 Humid:59
+
+Time passed : 355.43 min
+
+-----------------6 hour has passed!------------------------
+
+Avg local temp:23.67 Avg local humidity:57.17 Local ET0: 0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 88 CIMIS_TEMPERATURE: 22.83 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:12.3 Humid:59
+
+Time passed : 355.53 min
+
+Data #1: Temp:12.3 Humid:60
+
+Time passed : 356.51 min
+
+Data #2: Temp:12.2 Humid:61
+
+Time passed : 357.51 min
+
+Data #3: Temp:24.4 Humid:61
+
+Time passed : 358.52 min
+
+Data #4: Temp:12.2 Humid:60
+
+Time passed : 359.52 min
+
+Data #5: Temp:24.4 Humid:60
+
+Time passed : 360.54 min
+
+Data #6: Temp:24.4 Humid:58
+
+Time passed : 361.50 min
+
+Data #7: Temp:24.4 Humid:61
+
+Time passed : 362.52 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 6
+Data #8: Temp:24.4 Humid:59
+
+Time passed : 363.51 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:24.3 Humid:56
+
+Time passed : 364.63 min
+
+Data #10: Temp:24.4 Humid:59
+
+Time passed : 365.51 min
+
+Data #11: Temp:24.2 Humid:59
+
+Time passed : 366.51 min
+
+Data #12: Temp:24.1 Humid:60
+
+Time passed : 367.52 min
+
+Data #13: Temp:24.1 Humid:59
+
+Time passed : 368.52 min
+
+Data #14: Temp:24.1 Humid:62
+
+Time passed : 369.61 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:12.1 Humid:56
+
+Time passed : 370.52 min
+
+Data #16: Temp:12.1 Humid:59
+
+Time passed : 371.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:24.2 Humid:56
+
+Time passed : 372.60 min
+
+Data #18: Temp:24.2 Humid:59
+
+Time passed : 373.52 min
+
+Data #19: Temp:24.1 Humid:62
+
+Time passed : 374.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:12.0 Humid:56
+
+Time passed : 375.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:12.0 Humid:56
+
+Time passed : 376.53 min
+
+Data #22: Temp:12.0 Humid:62
+
+Time passed : 377.55 min
+
+Data #23: Temp:12.0 Humid:62
+
+Time passed : 378.55 min
+
+Data #24: Temp:12.0 Humid:60
+
+Time passed : 379.53 min
+
+Data #25: Temp:12.0 Humid:60
+
+Time passed : 380.53 min
+
+Data #26: Temp:24.0 Humid:62
+
+Time passed : 381.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:24.1 Humid:56
+
+Time passed : 382.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:24.1 Humid:56
+
+Time passed : 383.61 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:24.1 Humid:56
+
+Time passed : 384.59 min
+
+Data #30: Temp:24.1 Humid:62
+
+Time passed : 385.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:12.0 Humid:56
+
+Time passed : 386.55 min
+
+Data #32: Temp:23.9 Humid:63
+
+Time passed : 387.61 min
+
+Data #33: Temp:24.0 Humid:62
+
+Time passed : 388.59 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:23.9 Humid:56
+
+Time passed : 389.88 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:24.0 Humid:56
+
+Time passed : 390.83 min
+
+Data #36: Temp:12.0 Humid:63
+
+Time passed : 391.60 min
+
+Data #37: Temp:23.9 Humid:62
+
+Time passed : 392.71 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:12.0 Humid:56
+
+Time passed : 393.69 min
+
+Data #39: Temp:12.0 Humid:62
+
+Time passed : 394.56 min
+
+Data #40: Temp:23.9 Humid:63
+
+Time passed : 395.70 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:23.9 Humid:56
+
+Time passed : 396.75 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:12.0 Humid:56
+
+Time passed : 397.76 min
+
+Data #43: Temp:12.0 Humid:63
+
+Time passed : 398.81 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:24.0 Humid:56
+
+Time passed : 399.62 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:23.9 Humid:56
+
+Time passed : 400.70 min
+
+Data #46: Temp:24.0 Humid:61
+
+Time passed : 401.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:24.200000000000003 Humid:56
+
+Time passed : 402.57 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:24.200000000000003 Humid:56
+
+Time passed : 403.57 min
+
+Data #49: Temp:23.8 Humid:62
+
+Time passed : 404.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:24.200000000000003 Humid:56
+
+Time passed : 405.59 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:24.200000000000003 Humid:56
+
+Time passed : 406.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:23.7 Humid:56
+
+Time passed : 407.58 min
+
+Data #53: Temp:23.8 Humid:63
+
+Time passed : 408.73 min
+
+Data #54: Temp:23.9 Humid:63
+
+Time passed : 409.73 min
+
+Data #55: Temp:23.8 Humid:63
+
+Time passed : 410.71 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:23.8 Humid:56
+
+Time passed : 411.81 min
+
+Data #57: Temp:23.7 Humid:63
+
+Time passed : 412.64 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:23.8 Humid:56
+
+Time passed : 413.92 min
+
+Data #59: Temp:24.200000000000003 Humid:61
+
+Time passed : 414.56 min
+
+-----------------7 hour has passed!------------------------
+
+Avg local temp:20.86 Avg local humidity:60.09 Local ET0: 0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 89 CIMIS_TEMPERATURE: 22.78 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:23.7 Humid:63
+
+Time passed : 414.68 min
+
+Data #1: Temp:23.7 Humid:62
+
+Time passed : 415.67 min
+
+Data #2: Temp:23.7 Humid:63
+
+Time passed : 416.67 min
+
+Data #3: Temp:23.7 Humid:63
+
+Time passed : 417.67 min
+
+Data #4: Temp:23.6 Humid:63
+
+Time passed : 418.90 min
+
+Data #5: Temp:23.7 Humid:61
+
+Time passed : 419.65 min
+
+Data #6: Temp:23.7 Humid:63
+
+Time passed : 420.78 min
+
+Data #7: Temp:23.7 Humid:60
+
+Time passed : 421.65 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 7
+Data #8: Temp:23.7 Humid:62
+
+Time passed : 423.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:23.9 Humid:56
+
+Time passed : 423.66 min
+
+Data #10: Temp:23.8 Humid:63
+
+Time passed : 424.76 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:23.8 Humid:56
+
+Time passed : 425.88 min
+
+Data #12: Temp:24.200000000000003 Humid:63
+
+Time passed : 426.76 min
+
+Data #13: Temp:23.8 Humid:63
+
+Time passed : 427.76 min
+
+Data #14: Temp:23.8 Humid:63
+
+Time passed : 428.75 min
+
+Data #15: Temp:23.8 Humid:63
+
+Time passed : 429.79 min
+
+Data #16: Temp:23.8 Humid:63
+
+Time passed : 430.73 min
+
+Data #17: Temp:23.8 Humid:63
+
+Time passed : 431.73 min
+
+Data #18: Temp:23.8 Humid:63
+
+Time passed : 432.84 min
+
+Data #19: Temp:23.9 Humid:63
+
+Time passed : 433.71 min
+
+Data #20: Temp:23.8 Humid:62
+
+Time passed : 434.83 min
+
+Data #21: Temp:23.8 Humid:63
+
+Time passed : 435.79 min
+
+Data #22: Temp:23.9 Humid:62
+
+Time passed : 437.10 min
+
+Data #23: Temp:23.9 Humid:60
+
+Time passed : 437.68 min
+
+Data #24: Temp:23.7 Humid:63
+
+Time passed : 438.81 min
+
+Data #25: Temp:23.9 Humid:62
+
+Time passed : 440.48 min
+
+Data #26: Temp:23.9 Humid:62
+
+Time passed : 440.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:24.0 Humid:56
+
+Time passed : 441.81 min
+
+Data #28: Temp:23.9 Humid:62
+
+Time passed : 442.80 min
+
+Data #29: Temp:23.9 Humid:63
+
+Time passed : 443.91 min
+
+Data #30: Temp:23.9 Humid:63
+
+Time passed : 444.78 min
+
+Data #31: Temp:23.9 Humid:62
+
+Time passed : 446.05 min
+
+Data #32: Temp:24.200000000000003 Humid:63
+
+Time passed : 446.76 min
+
+Data #33: Temp:23.9 Humid:62
+
+Time passed : 447.90 min
+
+Data #34: Temp:24.0 Humid:63
+
+Time passed : 448.75 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:12.0 Humid:56
+
+Time passed : 449.98 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:12.0 Humid:56
+
+Time passed : 450.92 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:24.0 Humid:56
+
+Time passed : 451.81 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:23.9 Humid:56
+
+Time passed : 452.77 min
+
+Data #39: Temp:23.9 Humid:62
+
+Time passed : 453.77 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:24.0 Humid:56
+
+Time passed : 454.87 min
+
+Data #41: Temp:12.0 Humid:60
+
+Time passed : 455.70 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:24.0 Humid:56
+
+Time passed : 456.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:12.0 Humid:56
+
+Time passed : 457.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:24.1 Humid:56
+
+Time passed : 458.74 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:24.1 Humid:56
+
+Time passed : 459.78 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:12.0 Humid:56
+
+Time passed : 460.72 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:12.0 Humid:56
+
+Time passed : 461.72 min
+
+Data #48: Temp:24.1 Humid:62
+
+Time passed : 462.78 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:12.0 Humid:56
+
+Time passed : 463.80 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:12.0 Humid:56
+
+Time passed : 464.78 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:12.0 Humid:56
+
+Time passed : 465.73 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:12.0 Humid:56
+
+Time passed : 466.71 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:24.0 Humid:56
+
+Time passed : 467.77 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:12.0 Humid:56
+
+Time passed : 468.71 min
+
+Data #55: Temp:24.0 Humid:60
+
+Time passed : 469.71 min
+
+Data #56: Temp:24.0 Humid:62
+
+Time passed : 470.77 min
+
+Data #57: Temp:24.1 Humid:62
+
+Time passed : 471.77 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:24.1 Humid:56
+
+Time passed : 472.73 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:24.1 Humid:56
+
+Time passed : 473.72 min
+
+-----------------8 hour has passed!------------------------
+
+Avg local temp:22.06 Avg local humidity:60.98 Local ET0: 0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 88 CIMIS_TEMPERATURE: 22.72 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:24.1 Humid:56
+
+Time passed : 473.84 min
+
+Data #1: Temp:24.2 Humid:62
+
+Time passed : 474.82 min
+
+Data #2: Temp:24.1 Humid:62
+
+Time passed : 475.82 min
+
+Data #3: Temp:24.1 Humid:60
+
+Time passed : 476.80 min
+
+Data #4: Temp:24.1 Humid:60
+
+Time passed : 477.80 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #5: Temp:24.1 Humid:56
+
+Time passed : 478.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:12.0 Humid:56
+
+Time passed : 479.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:24.1 Humid:56
+
+Time passed : 480.80 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 8
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:12.0 Humid:56
+
+Time passed : 481.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:12.0 Humid:56
+
+Time passed : 482.82 min
+
+Data #10: Temp:24.1 Humid:60
+
+Time passed : 483.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:12.0 Humid:56
+
+Time passed : 484.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:12.0 Humid:56
+
+Time passed : 485.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:24.1 Humid:56
+
+Time passed : 486.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:24.1 Humid:56
+
+Time passed : 487.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:12.0 Humid:56
+
+Time passed : 488.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:24.1 Humid:56
+
+Time passed : 489.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:12.0 Humid:56
+
+Time passed : 490.83 min
+
+Data #18: Temp:12.0 Humid:62
+
+Time passed : 491.85 min
+
+Data #19: Temp:12.0 Humid:59
+
+Time passed : 492.83 min
+
+Data #20: Temp:24.1 Humid:59
+
+Time passed : 493.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:24.1 Humid:56
+
+Time passed : 494.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:24.1 Humid:56
+
+Time passed : 495.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:24.1 Humid:56
+
+Time passed : 496.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:12.0 Humid:56
+
+Time passed : 497.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:24.1 Humid:56
+
+Time passed : 498.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:12.0 Humid:56
+
+Time passed : 499.84 min
+
+Data #27: Temp:12.0 Humid:60
+
+Time passed : 500.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:24.1 Humid:56
+
+Time passed : 501.88 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:24.2 Humid:56
+
+Time passed : 502.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:24.1 Humid:56
+
+Time passed : 503.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:12.0 Humid:56
+
+Time passed : 504.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:12.0 Humid:56
+
+Time passed : 505.86 min
+
+Data #33: Temp:12.0 Humid:61
+
+Time passed : 506.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:12.1 Humid:56
+
+Time passed : 507.84 min
+
+Data #35: Temp:24.2 Humid:59
+
+Time passed : 508.84 min
+
+Data #36: Temp:12.1 Humid:59
+
+Time passed : 509.85 min
+
+Data #37: Temp:24.2 Humid:59
+
+Time passed : 510.85 min
+
+Data #38: Temp:12.0 Humid:61
+
+Time passed : 511.89 min
+
+Data #39: Temp:24.2 Humid:59
+
+Time passed : 512.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:24.2 Humid:56
+
+Time passed : 513.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:24.2 Humid:56
+
+Time passed : 514.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:12.1 Humid:56
+
+Time passed : 515.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:12.1 Humid:56
+
+Time passed : 516.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:12.1 Humid:56
+
+Time passed : 517.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:12.1 Humid:56
+
+Time passed : 518.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:12.1 Humid:56
+
+Time passed : 519.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:24.2 Humid:56
+
+Time passed : 520.88 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:12.1 Humid:56
+
+Time passed : 521.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:12.1 Humid:56
+
+Time passed : 522.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:12.1 Humid:56
+
+Time passed : 523.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:12.1 Humid:56
+
+Time passed : 524.86 min
+
+Data #52: Temp:12.1 Humid:59
+
+Time passed : 525.86 min
+
+Data #53: Temp:12.1 Humid:59
+
+Time passed : 526.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:24.2 Humid:56
+
+Time passed : 527.86 min
+
+Data #55: Temp:24.2 Humid:59
+
+Time passed : 528.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:24.2 Humid:56
+
+Time passed : 529.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:24.2 Humid:56
+
+Time passed : 530.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:24.2 Humid:56
+
+Time passed : 531.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:12.1 Humid:56
+
+Time passed : 532.87 min
+
+-----------------9 hour has passed!------------------------
+
+Avg local temp:18.46 Avg local humidity:58.20 Local ET0:0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 85 CIMIS_TEMPERATURE: 22.67 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:24.3 Humid:61
+
+Time passed : 532.99 min
+
+Data #1: Temp:24.3 Humid:58
+
+Time passed : 533.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #2: Temp:24.3 Humid:61
+
+Time passed : 534.95 min
+
+Data #3: Temp:24.3 Humid:61
+
+Time passed : 536.05 min
+
+Data #4: Temp:24.3 Humid:61
+
+Time passed : 537.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #5: Temp:24.4 Humid:61
+
+Time passed : 537.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:12.1 Humid:61
+
+Time passed : 538.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:24.2 Humid:61
+
+Time passed : 539.96 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 9
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:12.1 Humid:61
+
+Time passed : 540.97 min
+
+Data #9: Temp:24.2 Humid:61
+
+Time passed : 541.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:12.1 Humid:61
+
+Time passed : 542.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:24.2 Humid:61
+
+Time passed : 543.97 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:24.2 Humid:61
+
+Time passed : 544.97 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:12.1 Humid:61
+
+Time passed : 545.97 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:24.2 Humid:61
+
+Time passed : 547.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:12.1 Humid:61
+
+Time passed : 547.97 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:12.1 Humid:61
+
+Time passed : 548.98 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:24.2 Humid:61
+
+Time passed : 549.98 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:12.1 Humid:61
+
+Time passed : 550.98 min
+
+Data #19: Temp:12.1 Humid:59
+
+Time passed : 551.98 min
+
+Data #20: Temp:24.2 Humid:61
+
+Time passed : 553.11 min
+
+Data #21: Temp:24.4 Humid:59
+
+Time passed : 553.98 min
+
+Data #22: Temp:24.3 Humid:61
+
+Time passed : 555.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:24.3 Humid:61
+
+Time passed : 556.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:12.2 Humid:61
+
+Time passed : 557.21 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:24.3 Humid:61
+
+Time passed : 558.16 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:12.2 Humid:61
+
+Time passed : 558.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:12.1 Humid:61
+
+Time passed : 560.04 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:12.1 Humid:61
+
+Time passed : 560.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:24.2 Humid:61
+
+Time passed : 561.99 min
+
+Data #30: Temp:12.1 Humid:61
+
+Time passed : 563.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:12.1 Humid:61
+
+Time passed : 564.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:24.2 Humid:61
+
+Time passed : 565.01 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:12.1 Humid:61
+
+Time passed : 565.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:24.2 Humid:61
+
+Time passed : 566.99 min
+
+Data #35: Temp:24.2 Humid:61
+
+Time passed : 568.01 min
+
+Data #36: Temp:24.2 Humid:59
+
+Time passed : 568.99 min
+
+Data #37: Temp:24.1 Humid:61
+
+Time passed : 570.01 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:24.1 Humid:61
+
+Time passed : 571.11 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:24.2 Humid:61
+
+Time passed : 572.02 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:24.1 Humid:61
+
+Time passed : 573.02 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:24.2 Humid:61
+
+Time passed : 574.02 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:12.1 Humid:61
+
+Time passed : 575.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:24.2 Humid:61
+
+Time passed : 576.00 min
+
+Data #44: Temp:24.2 Humid:59
+
+Time passed : 577.00 min
+
+Data #45: Temp:24.2 Humid:61
+
+Time passed : 578.08 min
+
+Data #46: Temp:24.3 Humid:59
+
+Time passed : 579.00 min
+
+Data #47: Temp:24.1 Humid:61
+
+Time passed : 580.04 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:12.1 Humid:61
+
+Time passed : 581.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:12.1 Humid:61
+
+Time passed : 582.12 min
+
+Data #50: Temp:12.1 Humid:61
+
+Time passed : 583.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:12.1 Humid:61
+
+Time passed : 584.09 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:12.1 Humid:61
+
+Time passed : 585.05 min
+
+Data #53: Temp:12.1 Humid:59
+
+Time passed : 586.01 min
+
+Data #54: Temp:24.1 Humid:59
+
+Time passed : 587.01 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:24.2 Humid:61
+
+Time passed : 588.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:24.2 Humid:61
+
+Time passed : 589.07 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:24.2 Humid:61
+
+Time passed : 590.03 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:24.2 Humid:61
+
+Time passed : 591.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:12.1 Humid:61
+
+Time passed : 592.04 min
+
+-----------------10 hour has passed!------------------------
+Avg local temp:19.89 Avg local humidity:61.69 Local ET0:0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 84 CIMIS_TEMPERATURE: 22.56 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:24.2 Humid:60
+
+Time passed : 592.16 min
+
+Data #1: Temp:24.3 Humid:60
+
+Time passed : 593.21 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #2: Temp:24.1 Humid:60
+
+Time passed : 594.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:12.1 Humid:60
+
+Time passed : 595.18 min
+
+Data #4: Temp:12.1 Humid:61
+
+Time passed : 596.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #5: Temp:12.1 Humid:60
+
+Time passed : 597.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:12.1 Humid:60
+
+Time passed : 598.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:12.1 Humid:60
+
+Time passed : 599.12 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 10
+Data #8: Temp:12.1 Humid:59
+
+Time passed : 600.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:24.2 Humid:60
+
+Time passed : 601.21 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:24.2 Humid:60
+
+Time passed : 602.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:24.2 Humid:60
+
+Time passed : 603.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:12.1 Humid:60
+
+Time passed : 604.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:12.1 Humid:60
+
+Time passed : 605.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:24.3 Humid:60
+
+Time passed : 606.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:12.1 Humid:60
+
+Time passed : 607.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:24.3 Humid:60
+
+Time passed : 608.16 min
+
+Data #17: Temp:24.3 Humid:58
+
+Time passed : 609.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:24.3 Humid:60
+
+Time passed : 610.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:24.3 Humid:60
+
+Time passed : 611.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:12.1 Humid:60
+
+Time passed : 612.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:12.1 Humid:60
+
+Time passed : 613.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:24.3 Humid:60
+
+Time passed : 614.15 min
+
+Data #23: Temp:24.4 Humid:60
+
+Time passed : 615.36 min
+
+Data #24: Temp:12.2 Humid:60
+
+Time passed : 616.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:24.4 Humid:60
+
+Time passed : 617.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:12.2 Humid:60
+
+Time passed : 618.16 min
+
+Data #27: Temp:12.2 Humid:60
+
+Time passed : 619.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:12.2 Humid:60
+
+Time passed : 620.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:12.2 Humid:60
+
+Time passed : 621.16 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:12.1 Humid:60
+
+Time passed : 622.22 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:12.1 Humid:60
+
+Time passed : 623.18 min
+
+Data #32: Temp:12.1 Humid:60
+
+Time passed : 624.22 min
+
+Data #33: Temp:12.2 Humid:59
+
+Time passed : 625.30 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:24.5 Humid:60
+
+Time passed : 626.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:24.5 Humid:60
+
+Time passed : 627.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:12.2 Humid:60
+
+Time passed : 628.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:12.2 Humid:60
+
+Time passed : 629.24 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:12.2 Humid:60
+
+Time passed : 630.17 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:24.4 Humid:60
+
+Time passed : 631.17 min
+
+Data #40: Temp:24.3 Humid:61
+
+Time passed : 632.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:24.4 Humid:60
+
+Time passed : 633.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:12.2 Humid:60
+
+Time passed : 634.17 min
+
+Data #43: Temp:12.1 Humid:61
+
+Time passed : 635.21 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:12.2 Humid:60
+
+Time passed : 636.38 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:24.4 Humid:60
+
+Time passed : 637.18 min
+
+Data #46: Temp:12.1 Humid:62
+
+Time passed : 638.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:24.0 Humid:60
+
+Time passed : 639.35 min
+
+Data #48: Temp:12.0 Humid:60
+
+Time passed : 640.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:23.8 Humid:60
+
+Time passed : 641.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:23.8 Humid:60
+
+Time passed : 642.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:23.8 Humid:60
+
+Time passed : 643.18 min
+
+Data #52: Temp:24.200000000000003 Humid:63
+
+Time passed : 644.28 min
+
+Data #53: Temp:23.9 Humid:63
+
+Time passed : 645.32 min
+
+Data #54: Temp:24.200000000000003 Humid:62
+
+Time passed : 646.32 min
+
+Data #55: Temp:24.200000000000003 Humid:62
+
+Time passed : 647.32 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:24.200000000000003 Humid:60
+
+Time passed : 648.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:24.200000000000003 Humid:60
+
+Time passed : 649.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:24.200000000000003 Humid:60
+
+Time passed : 650.19 min
+
+Data #59: Temp:23.8 Humid:62
+
+Time passed : 651.27 min
+
+-----------------11 hour has passed!------------------------
+
+Avg local temp:18.90 Avg local humidity:61.24 Local ET0:0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 87 CIMIS_TEMPERATURE: 22.50 
+
+Data #0: Temp:24.0 Humid:62
+
+Time passed : 651.37 min
+
+Data #1: Temp:23.9 Humid:62
+
+Time passed : 652.46 min
+
+Data #2: Temp:24.0 Humid:59
+
+Time passed : 653.35 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:24.0 Humid:62
+
+Time passed : 654.37 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:24.2 Humid:62
+
+Time passed : 655.37 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #5: Temp:24.2 Humid:62
+
+Time passed : 656.37 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:24.2 Humid:62
+
+Time passed : 657.37 min
+
+Data #7: Temp:12.1 Humid:60
+
+Time passed : 658.45 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 11
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:12.1 Humid:62
+
+Time passed : 659.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:24.3 Humid:62
+
+Time passed : 660.39 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:12.1 Humid:62
+
+Time passed : 661.41 min
+
+Data #11: Temp:12.1 Humid:61
+
+Time passed : 662.43 min
+
+Data #12: Temp:12.1 Humid:61
+
+Time passed : 663.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:12.1 Humid:62
+
+Time passed : 664.49 min
+
+Data #14: Temp:12.1 Humid:61
+
+Time passed : 665.45 min
+
+Data #15: Temp:12.0 Humid:62
+
+Time passed : 666.39 min
+
+Data #16: Temp:23.9 Humid:62
+
+Time passed : 667.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:24.0 Humid:62
+
+Time passed : 668.51 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:12.0 Humid:62
+
+Time passed : 669.45 min
+
+Data #19: Temp:12.0 Humid:61
+
+Time passed : 670.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:24.1 Humid:62
+
+Time passed : 671.38 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:24.1 Humid:62
+
+Time passed : 672.38 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:12.0 Humid:62
+
+Time passed : 673.38 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:12.0 Humid:62
+
+Time passed : 674.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:12.0 Humid:62
+
+Time passed : 675.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:12.0 Humid:62
+
+Time passed : 676.41 min
+
+Data #26: Temp:12.0 Humid:62
+
+Time passed : 677.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:24.200000000000003 Humid:62
+
+Time passed : 678.41 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:24.200000000000003 Humid:62
+
+Time passed : 679.39 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:24.200000000000003 Humid:62
+
+Time passed : 680.39 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:23.9 Humid:62
+
+Time passed : 681.73 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:12.0 Humid:62
+
+Time passed : 682.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:12.0 Humid:62
+
+Time passed : 683.45 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:12.1 Humid:62
+
+Time passed : 684.51 min
+
+Data #34: Temp:12.1 Humid:59
+
+Time passed : 685.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:24.1 Humid:62
+
+Time passed : 686.43 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:24.2 Humid:62
+
+Time passed : 687.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:24.1 Humid:62
+
+Time passed : 688.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:24.2 Humid:62
+
+Time passed : 689.40 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:12.1 Humid:62
+
+Time passed : 690.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:12.1 Humid:62
+
+Time passed : 691.48 min
+
+Data #41: Temp:12.1 Humid:60
+
+Time passed : 692.48 min
+
+Data #42: Temp:12.1 Humid:60
+
+Time passed : 693.48 min
+
+Data #43: Temp:12.1 Humid:60
+
+Time passed : 694.46 min
+
+Data #44: Temp:24.2 Humid:60
+
+Time passed : 695.46 min
+
+Data #45: Temp:24.2 Humid:60
+
+Time passed : 696.44 min
+
+Data #46: Temp:24.2 Humid:60
+
+Time passed : 697.50 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:24.2 Humid:62
+
+Time passed : 698.52 min
+
+Data #48: Temp:12.1 Humid:60
+
+Time passed : 699.43 min
+
+Data #49: Temp:24.2 Humid:60
+
+Time passed : 700.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:24.2 Humid:62
+
+Time passed : 701.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:12.1 Humid:62
+
+Time passed : 702.41 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:24.2 Humid:62
+
+Time passed : 703.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:24.3 Humid:62
+
+Time passed : 704.42 min
+
+Data #54: Temp:12.1 Humid:59
+
+Time passed : 705.64 min
+
+Data #55: Temp:12.1 Humid:60
+
+Time passed : 706.51 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:12.1 Humid:62
+
+Time passed : 707.70 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:12.1 Humid:62
+
+Time passed : 708.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:24.2 Humid:62
+
+Time passed : 709.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:24.2 Humid:62
+
+Time passed : 710.42 min
+
+-----------------12 hour has passed!------------------------
+
+Avg local temp:18.42 Avg local humidity:62.47 Local ET0:0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 90 CIMIS_TEMPERATURE: 22.44 
+
+Data #0: Temp:12.1 Humid:59
+
+Time passed : 710.58 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:24.3 Humid:60
+
+Time passed : 711.49 min
+
+Data #2: Temp:24.2 Humid:60
+
+Time passed : 712.51 min
+
+Data #3: Temp:24.2 Humid:60
+
+Time passed : 713.60 min
+
+Data #4: Temp:12.1 Humid:60
+
+Time passed : 714.51 min
+
+Data #5: Temp:12.0 Humid:60
+
+Time passed : 715.51 min
+
+Data #6: Temp:24.2 Humid:60
+
+Time passed : 716.57 min
+
+Data #7: Temp:24.1 Humid:60
+
+Time passed : 717.53 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 12
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:24.2 Humid:60
+
+Time passed : 718.66 min
+
+Data #9: Temp:12.1 Humid:59
+
+Time passed : 719.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:12.1 Humid:60
+
+Time passed : 720.51 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:12.1 Humid:60
+
+Time passed : 721.51 min
+
+Data #12: Temp:12.1 Humid:59
+
+Time passed : 722.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:24.3 Humid:60
+
+Time passed : 723.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:24.3 Humid:60
+
+Time passed : 724.62 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:24.3 Humid:60
+
+Time passed : 725.55 min
+
+Data #16: Temp:24.4 Humid:57
+
+Time passed : 726.51 min
+
+Data #17: Temp:12.2 Humid:59
+
+Time passed : 727.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:24.4 Humid:60
+
+Time passed : 728.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:12.2 Humid:60
+
+Time passed : 729.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:24.4 Humid:60
+
+Time passed : 730.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:12.2 Humid:60
+
+Time passed : 731.52 min
+
+Data #22: Temp:12.2 Humid:57
+
+Time passed : 732.52 min
+
+Data #23: Temp:12.2 Humid:57
+
+Time passed : 733.52 min
+
+Data #24: Temp:12.2 Humid:57
+
+Time passed : 734.52 min
+
+Data #25: Temp:12.2 Humid:57
+
+Time passed : 735.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:12.2 Humid:60
+
+Time passed : 736.56 min
+
+Data #27: Temp:12.2 Humid:56
+
+Time passed : 737.52 min
+
+Data #28: Temp:12.2 Humid:59
+
+Time passed : 738.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:24.3 Humid:60
+
+Time passed : 739.60 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:12.2 Humid:60
+
+Time passed : 740.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:24.4 Humid:60
+
+Time passed : 741.53 min
+
+Data #32: Temp:12.2 Humid:57
+
+Time passed : 742.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:12.1 Humid:60
+
+Time passed : 743.55 min
+
+Data #34: Temp:24.3 Humid:59
+
+Time passed : 744.64 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:24.4 Humid:60
+
+Time passed : 745.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:12.1 Humid:60
+
+Time passed : 746.55 min
+
+Data #37: Temp:12.1 Humid:59
+
+Time passed : 747.63 min
+
+Data #38: Temp:24.3 Humid:59
+
+Time passed : 748.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:24.4 Humid:60
+
+Time passed : 749.53 min
+
+Data #40: Temp:12.2 Humid:59
+
+Time passed : 750.61 min
+
+Data #41: Temp:24.4 Humid:59
+
+Time passed : 751.61 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:24.4 Humid:60
+
+Time passed : 752.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:24.3 Humid:60
+
+Time passed : 753.65 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:24.5 Humid:60
+
+Time passed : 754.62 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:24.5 Humid:60
+
+Time passed : 755.60 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:24.5 Humid:60
+
+Time passed : 756.60 min
+
+Data #47: Temp:12.2 Humid:58
+
+Time passed : 757.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:12.2 Humid:60
+
+Time passed : 758.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:12.2 Humid:60
+
+Time passed : 759.60 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:12.2 Humid:60
+
+Time passed : 760.58 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:24.6 Humid:60
+
+Time passed : 761.57 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:12.3 Humid:60
+
+Time passed : 762.61 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:24.7 Humid:60
+
+Time passed : 763.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:24.7 Humid:60
+
+Time passed : 764.67 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:12.4 Humid:60
+
+Time passed : 765.59 min
+
+Data #56: Temp:12.4 Humid:57
+
+Time passed : 766.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:12.4 Humid:60
+
+Time passed : 767.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:24.9 Humid:60
+
+Time passed : 768.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:24.9 Humid:60
+
+Time passed : 769.71 min
+
+-----------------13 hour has passed!------------------------
+
+Avg local temp:18.40 Avg local humidity:60.42 Local ET0:0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 85 CIMIS_TEMPERATURE: 22.33 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:12.4 Humid:58
+
+Time passed : 769.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:24.9 Humid:58
+
+Time passed : 770.79 min
+
+Data #2: Temp:24.8 Humid:58
+
+Time passed : 771.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:12.3 Humid:58
+
+Time passed : 772.77 min
+
+Data #4: Temp:24.8 Humid:58
+
+Time passed : 773.85 min
+
+Data #5: Temp:24.7 Humid:58
+
+Time passed : 774.81 min
+
+Data #6: Temp:24.8 Humid:58
+
+Time passed : 775.82 min
+
+Data #7: Temp:24.8 Humid:58
+
+Time passed : 776.82 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 13
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:12.3 Humid:58
+
+Time passed : 777.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:12.3 Humid:58
+
+Time passed : 778.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:12.3 Humid:58
+
+Time passed : 779.79 min
+
+Data #11: Temp:12.3 Humid:58
+
+Time passed : 780.79 min
+
+Data #12: Temp:12.4 Humid:58
+
+Time passed : 781.85 min
+
+Data #13: Temp:24.8 Humid:57
+
+Time passed : 783.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:24.9 Humid:58
+
+Time passed : 783.80 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:12.4 Humid:58
+
+Time passed : 784.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:12.4 Humid:58
+
+Time passed : 785.80 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:24.8 Humid:58
+
+Time passed : 786.78 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:12.4 Humid:58
+
+Time passed : 787.78 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:12.4 Humid:58
+
+Time passed : 788.78 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:12.4 Humid:58
+
+Time passed : 789.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:12.4 Humid:58
+
+Time passed : 790.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:12.4 Humid:58
+
+Time passed : 791.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:12.4 Humid:58
+
+Time passed : 792.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:12.4 Humid:58
+
+Time passed : 793.81 min
+
+Data #25: Temp:12.4 Humid:57
+
+Time passed : 794.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:12.4 Humid:58
+
+Time passed : 795.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:12.4 Humid:58
+
+Time passed : 796.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:12.4 Humid:58
+
+Time passed : 797.83 min
+
+Data #29: Temp:12.4 Humid:55
+
+Time passed : 798.80 min
+
+Data #30: Temp:24.7 Humid:55
+
+Time passed : 799.80 min
+
+Data #31: Temp:24.7 Humid:55
+
+Time passed : 800.80 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:24.7 Humid:58
+
+Time passed : 801.80 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:12.4 Humid:58
+
+Time passed : 802.80 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:12.4 Humid:58
+
+Time passed : 803.86 min
+
+Data #35: Temp:12.4 Humid:56
+
+Time passed : 804.88 min
+
+Data #36: Temp:12.4 Humid:56
+
+Time passed : 805.88 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:12.4 Humid:58
+
+Time passed : 806.80 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:12.4 Humid:58
+
+Time passed : 807.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:12.4 Humid:58
+
+Time passed : 808.81 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:24.8 Humid:58
+
+Time passed : 809.86 min
+
+Data #41: Temp:12.4 Humid:57
+
+Time passed : 810.85 min
+
+Data #42: Temp:12.4 Humid:56
+
+Time passed : 811.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:12.3 Humid:58
+
+Time passed : 812.81 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:12.3 Humid:58
+
+Time passed : 813.87 min
+
+Data #45: Temp:12.3 Humid:57
+
+Time passed : 814.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:12.3 Humid:58
+
+Time passed : 815.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:24.8 Humid:58
+
+Time passed : 816.89 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:12.3 Humid:58
+
+Time passed : 817.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:24.8 Humid:58
+
+Time passed : 818.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:12.4 Humid:58
+
+Time passed : 819.89 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:12.4 Humid:58
+
+Time passed : 820.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:12.3 Humid:58
+
+Time passed : 821.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:12.3 Humid:58
+
+Time passed : 822.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:12.3 Humid:58
+
+Time passed : 823.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:12.3 Humid:58
+
+Time passed : 824.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:12.3 Humid:58
+
+Time passed : 825.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:12.3 Humid:58
+
+Time passed : 826.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:24.6 Humid:58
+
+Time passed : 827.88 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:12.3 Humid:58
+
+Time passed : 828.83 min
+
+-----------------14 hour has passed!------------------------
+
+Avg local temp:15.98 Avg local humidity:58.69 Local ET0:0.00
+
+CIMIS_ETO: 0.00 CIMIS_HUMIDITY: 89 CIMIS_TEMPERATURE: 22.28 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:24.7 Humid:56
+
+Time passed : 828.97 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:12.3 Humid:58
+
+Time passed : 829.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #2: Temp:12.3 Humid:58
+
+Time passed : 830.89 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:12.3 Humid:58
+
+Time passed : 831.87 min
+
+Data #4: Temp:12.3 Humid:55
+
+Time passed : 832.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #5: Temp:12.3 Humid:58
+
+Time passed : 833.89 min
+
+Data #6: Temp:12.3 Humid:57
+
+Time passed : 834.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:24.8 Humid:58
+
+Time passed : 835.95 min
+
+Amount of water needed to irrigate without adjustment: 0.00
+
+Amount of water needed to irrigate with adjustment: 0.00
+
+No need to irrigate ET0 is zero for hour 14
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:24.8 Humid:58
+
+Time passed : 836.89 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:12.3 Humid:58
+
+Time passed : 837.91 min
+
+Data #10: Temp:12.3 Humid:56
+
+Time passed : 838.91 min
+
+Data #11: Temp:12.3 Humid:56
+
+Time passed : 839.91 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:12.3 Humid:58
+
+Time passed : 841.01 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:24.8 Humid:58
+
+Time passed : 841.91 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:12.4 Humid:58
+
+Time passed : 842.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:24.8 Humid:58
+
+Time passed : 843.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:24.9 Humid:58
+
+Time passed : 844.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:24.9 Humid:58
+
+Time passed : 845.98 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:12.4 Humid:58
+
+Time passed : 846.94 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:12.4 Humid:58
+
+Time passed : 847.94 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:12.4 Humid:58
+
+Time passed : 848.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:12.4 Humid:58
+
+Time passed : 849.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:12.4 Humid:58
+
+Time passed : 850.92 min
+
+Data #23: Temp:24.8 Humid:56
+
+Time passed : 851.96 min
+
+Data #24: Temp:12.4 Humid:56
+
+Time passed : 852.94 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:12.4 Humid:58
+
+Time passed : 854.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:24.8 Humid:58
+
+Time passed : 855.10 min
+
+Data #27: Temp:24.9 Humid:56
+
+Time passed : 855.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:24.8 Humid:58
+
+Time passed : 856.95 min
+
+Data #29: Temp:12.4 Humid:54
+
+Time passed : 857.91 min
+
+Data #30: Temp:12.4 Humid:54
+
+Time passed : 858.91 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:12.4 Humid:58
+
+Time passed : 859.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:24.9 Humid:58
+
+Time passed : 861.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:12.4 Humid:58
+
+Time passed : 861.97 min
+
+Data #34: Temp:24.8 Humid:56
+
+Time passed : 863.01 min
+
+Data #35: Temp:12.4 Humid:56
+
+Time passed : 864.01 min
+
+Data #36: Temp:12.4 Humid:56
+
+Time passed : 864.99 min
+
+Data #37: Temp:12.4 Humid:54
+
+Time passed : 865.92 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:12.4 Humid:58
+
+Time passed : 867.02 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:24.9 Humid:58
+
+Time passed : 867.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:12.4 Humid:58
+
+Time passed : 868.92 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:12.4 Humid:58
+
+Time passed : 869.94 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:24.9 Humid:58
+
+Time passed : 870.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:12.4 Humid:58
+
+Time passed : 871.93 min
+
+Data #44: Temp:12.4 Humid:54
+
+Time passed : 872.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:12.4 Humid:58
+
+Time passed : 873.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:24.9 Humid:58
+
+Time passed : 874.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:24.9 Humid:58
+
+Time passed : 875.93 min
+
+Data #48: Temp:12.4 Humid:55
+
+Time passed : 877.03 min
+
+Data #49: Temp:24.9 Humid:55
+
+Time passed : 877.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:12.4 Humid:58
+
+Time passed : 878.95 min
+
+Data #51: Temp:12.4 Humid:56
+
+Time passed : 880.01 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:24.8 Humid:58
+
+Time passed : 881.07 min
+
+Data #53: Temp:24.8 Humid:56
+
+Time passed : 882.05 min
+
+Data #54: Temp:12.3 Humid:56
+
+Time passed : 882.98 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:12.3 Humid:58
+
+Time passed : 883.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:24.7 Humid:58
+
+Time passed : 885.15 min
+
+Data #57: Temp:12.4 Humid:56
+
+Time passed : 885.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:24.8 Humid:58
+
+Time passed : 887.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:12.4 Humid:58
+
+Time passed : 888.02 min
+
+-----------------15 hour has passed!------------------------
+
+Avg local temp:17.20 Avg local humidity:58.11 Local ET0:0.01
+
+CIMIS_ETO: 0.01 CIMIS_HUMIDITY: 80 CIMIS_TEMPERATURE: 22.17 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:24.9 Humid:56
+
+Time passed : 888.10 min
+
+Data #1: Temp:24.9 Humid:54
+
+Time passed : 889.07 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #2: Temp:24.8 Humid:56
+
+Time passed : 890.13 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:24.9 Humid:56
+
+Time passed : 891.07 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:24.9 Humid:56
+
+Time passed : 892.07 min
+
+Data #5: Temp:24.9 Humid:55
+
+Time passed : 893.16 min
+
+Data #6: Temp:25.0 Humid:55
+
+Time passed : 894.17 min
+
+Data #7: Temp:25.0 Humid:55
+
+Time passed : 895.28 min
+
+Amount of water needed to irrigate without adjustment: 12.40
+
+Amount of water needed to irrigate with adjustment: 12.40
+
+Turing pump ON for 0.41 min
+----------------Turning Pump off ----------------------
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:25.0 Humid:56
+
+Time passed : 896.26 min
+
+Data #9: Temp:25.1 Humid:55
+
+Time passed : 897.30 min
+
+Data #10: Temp:25.1 Humid:55
+
+Time passed : 898.43 min
+
+Data #11: Temp:25.0 Humid:54
+
+Time passed : 899.41 min
+
+Data #12: Temp:25.2 Humid:55
+
+Time passed : 900.15 min
+
+Data #13: Temp:25.0 Humid:55
+
+Time passed : 901.26 min
+
+Data #14: Temp:25.0 Humid:55
+
+Time passed : 902.19 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:25.1 Humid:56
+
+Time passed : 903.55 min
+
+Data #16: Temp:24.9 Humid:54
+
+Time passed : 904.11 min
+
+Data #17: Temp:25.0 Humid:55
+
+Time passed : 905.30 min
+
+Data #18: Temp:25.0 Humid:54
+
+Time passed : 906.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:25.1 Humid:56
+
+Time passed : 907.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:25.0 Humid:56
+
+Time passed : 908.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:25.0 Humid:56
+
+Time passed : 909.17 min
+
+Data #22: Temp:25.1 Humid:55
+
+Time passed : 910.21 min
+
+Data #23: Temp:24.8 Humid:54
+
+Time passed : 911.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:24.8 Humid:56
+
+Time passed : 912.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:24.9 Humid:56
+
+Time passed : 913.46 min
+
+Data #26: Temp:24.9 Humid:52
+
+Time passed : 914.10 min
+
+Data #27: Temp:25.1 Humid:54
+
+Time passed : 915.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:25.1 Humid:56
+
+Time passed : 916.22 min
+
+Data #29: Temp:24.9 Humid:54
+
+Time passed : 917.30 min
+
+Data #30: Temp:25.2 Humid:54
+
+Time passed : 918.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:25.1 Humid:56
+
+Time passed : 919.24 min
+
+Data #32: Temp:24.9 Humid:54
+
+Time passed : 920.13 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:24.9 Humid:56
+
+Time passed : 921.23 min
+
+Data #34: Temp:24.9 Humid:52
+
+Time passed : 922.11 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:25.1 Humid:56
+
+Time passed : 923.13 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:24.9 Humid:56
+
+Time passed : 924.17 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:25.2 Humid:56
+
+Time passed : 925.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:24.9 Humid:56
+
+Time passed : 926.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:24.9 Humid:56
+
+Time passed : 927.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:24.9 Humid:56
+
+Time passed : 928.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:24.9 Humid:56
+
+Time passed : 929.16 min
+
+Data #42: Temp:25.2 Humid:53
+
+Time passed : 930.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:24.9 Humid:56
+
+Time passed : 931.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:25.2 Humid:56
+
+Time passed : 932.12 min
+
+Data #45: Temp:25.3 Humid:53
+
+Time passed : 933.45 min
+
+Data #46: Temp:25.6 Humid:53
+
+Time passed : 934.43 min
+
+Data #47: Temp:25.5 Humid:53
+
+Time passed : 935.16 min
+
+Data #48: Temp:25.4 Humid:53
+
+Time passed : 936.15 min
+
+Data #49: Temp:25.3 Humid:53
+
+Time passed : 937.34 min
+
+Data #50: Temp:25.4 Humid:51
+
+Time passed : 938.13 min
+
+Data #51: Temp:25.3 Humid:52
+
+Time passed : 939.13 min
+
+Data #52: Temp:25.4 Humid:53
+
+Time passed : 940.25 min
+
+Data #53: Temp:25.4 Humid:53
+
+Time passed : 941.19 min
+
+Data #54: Temp:25.4 Humid:53
+
+Time passed : 942.23 min
+
+Data #55: Temp:25.4 Humid:53
+
+Time passed : 943.50 min
+
+Data #56: Temp:25.4 Humid:53
+
+Time passed : 944.36 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:25.6 Humid:56
+
+Time passed : 945.46 min
+
+Data #58: Temp:25.0 Humid:52
+
+Time passed : 946.21 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:25.1 Humid:56
+
+Time passed : 947.46 min
+
+-----------------16 hour has passed!------------------------
+
+Avg local temp:25.37 Avg local humidity:55.60 Local ET0: 0.01
+
+CIMIS_ETO: 0.02 CIMIS_HUMIDITY: 67 CIMIS_TEMPERATURE: 22.11 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:25.1 Humid:52
+
+Time passed : 947.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:25.4 Humid:56
+
+Time passed : 948.77 min
+
+Data #2: Temp:25.0 Humid:53
+
+Time passed : 949.53 min
+
+Data #3: Temp:25.2 Humid:53
+
+Time passed : 950.58 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:25.1 Humid:56
+
+Time passed : 951.62 min
+
+Data #5: Temp:25.2 Humid:54
+
+Time passed : 952.55 min
+
+Data #6: Temp:25.2 Humid:53
+
+Time passed : 953.55 min
+
+Data #7: Temp:25.2 Humid:53
+
+Time passed : 954.68 min
+
+Amount of water needed to irrigate without adjustment: 24.80
+
+Amount of water needed to irrigate with adjustment: 23.46
+
+Turing pump ON for 0.53 min
+----------------Turning Pump off ----------------------
+
+Data #8: Temp:25.2 Humid:51
+
+Time passed : 955.52 min
+
+Data #9: Temp:25.2 Humid:53
+
+Time passed : 956.70 min
+
+Data #10: Temp:25.4 Humid:51
+
+Time passed : 957.53 min
+
+Data #11: Temp:25.2 Humid:53
+
+Time passed : 958.54 min
+
+Data #12: Temp:25.4 Humid:53
+
+Time passed : 959.95 min
+
+Data #13: Temp:25.1 Humid:52
+
+Time passed : 961.08 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:25.5 Humid:56
+
+Time passed : 961.55 min
+
+Data #15: Temp:25.4 Humid:51
+
+Time passed : 962.53 min
+
+Data #16: Temp:25.2 Humid:53
+
+Time passed : 963.78 min
+
+Data #17: Temp:25.3 Humid:53
+
+Time passed : 964.65 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:25.4 Humid:56
+
+Time passed : 965.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:25.4 Humid:56
+
+Time passed : 966.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:24.9 Humid:56
+
+Time passed : 967.65 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:25.0 Humid:56
+
+Time passed : 968.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:25.0 Humid:56
+
+Time passed : 969.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:25.2 Humid:56
+
+Time passed : 970.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:24.9 Humid:56
+
+Time passed : 971.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:25.2 Humid:56
+
+Time passed : 972.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:25.2 Humid:56
+
+Time passed : 973.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:24.9 Humid:56
+
+Time passed : 974.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:25.2 Humid:56
+
+Time passed : 975.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:25.2 Humid:56
+
+Time passed : 976.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:25.2 Humid:56
+
+Time passed : 977.54 min
+
+Data #31: Temp:25.2 Humid:52
+
+Time passed : 978.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:25.1 Humid:56
+
+Time passed : 979.62 min
+
+Data #33: Temp:25.2 Humid:51
+
+Time passed : 980.55 min
+
+Data #34: Temp:25.1 Humid:54
+
+Time passed : 981.57 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:24.8 Humid:56
+
+Time passed : 982.61 min
+
+Data #36: Temp:25.1 Humid:54
+
+Time passed : 983.66 min
+
+Data #37: Temp:24.8 Humid:54
+
+Time passed : 984.64 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:25.1 Humid:56
+
+Time passed : 985.57 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:24.9 Humid:56
+
+Time passed : 986.69 min
+
+Data #40: Temp:24.9 Humid:54
+
+Time passed : 987.63 min
+
+Data #41: Temp:24.9 Humid:54
+
+Time passed : 988.63 min
+
+Data #42: Temp:25.2 Humid:54
+
+Time passed : 989.61 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:25.2 Humid:56
+
+Time passed : 990.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:24.9 Humid:56
+
+Time passed : 991.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:25.2 Humid:56
+
+Time passed : 992.60 min
+
+Data #46: Temp:24.9 Humid:54
+
+Time passed : 993.58 min
+
+Data #47: Temp:25.1 Humid:55
+
+Time passed : 994.69 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:24.9 Humid:56
+
+Time passed : 995.75 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:24.9 Humid:56
+
+Time passed : 996.77 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:25.2 Humid:56
+
+Time passed : 997.70 min
+
+Data #51: Temp:25.1 Humid:55
+
+Time passed : 998.81 min
+
+Data #52: Temp:25.1 Humid:55
+
+Time passed : 999.66 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:24.9 Humid:56
+
+Time passed : 1000.85 min
+
+Data #54: Temp:24.9 Humid:55
+
+Time passed : 1001.64 min
+
+Data #55: Temp:25.1 Humid:55
+
+Time passed : 1002.65 min
+
+Data #56: Temp:25.0 Humid:55
+
+Time passed : 1003.65 min
+
+Data #57: Temp:24.8 Humid:55
+
+Time passed : 1004.75 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:25.2 Humid:56
+
+Time passed : 1005.91 min
+
+Data #59: Temp:25.2 Humid:55
+
+Time passed : 1006.63 min
+
+-----------------17 hour has passed!------------------------
+
+Avg local temp:25.54 Avg local humidity:55.54 Local ET0: 0.01
+
+CIMIS_ETO: 0.02 CIMIS_HUMIDITY: 58 CIMIS_TEMPERATURE: 22.06 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:24.9 Humid:54
+
+Time passed : 1006.83 min
+
+Data #1: Temp:25.2 Humid:55
+
+Time passed : 1007.86 min
+
+Data #2: Temp:25.1 Humid:55
+
+Time passed : 1008.85 min
+
+Data #3: Temp:25.0 Humid:55
+
+Time passed : 1009.87 min
+
+Data #4: Temp:24.9 Humid:55
+
+Time passed : 1010.85 min
+
+Data #5: Temp:25.0 Humid:55
+
+Time passed : 1012.00 min
+
+Data #6: Temp:25.0 Humid:54
+
+Time passed : 1013.10 min
+
+Data #7: Temp:24.9 Humid:55
+
+Time passed : 1013.83 min
+
+Amount of water needed to irrigate without adjustment: 24.80
+
+Amount of water needed to irrigate with adjustment: 21.42
+
+Turing pump ON for 0.53 min
+----------------Turning Pump off ----------------------
+
+Data #8: Temp:24.9 Humid:55
+
+Time passed : 1014.98 min
+
+Data #9: Temp:25.0 Humid:55
+
+Time passed : 1015.98 min
+
+Data #10: Temp:24.8 Humid:54
+
+Time passed : 1016.85 min
+
+Data #11: Temp:25.0 Humid:55
+
+Time passed : 1017.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:24.9 Humid:54
+
+Time passed : 1019.04 min
+
+Data #13: Temp:25.1 Humid:55
+
+Time passed : 1020.36 min
+
+Data #14: Temp:25.0 Humid:55
+
+Time passed : 1021.10 min
+
+Data #15: Temp:25.0 Humid:55
+
+Time passed : 1021.95 min
+
+Data #16: Temp:25.0 Humid:55
+
+Time passed : 1022.99 min
+
+Data #17: Temp:24.9 Humid:55
+
+Time passed : 1024.06 min
+
+Data #18: Temp:25.0 Humid:53
+
+Time passed : 1024.80 min
+
+Data #19: Temp:24.9 Humid:55
+
+Time passed : 1025.91 min
+
+Data #20: Temp:24.9 Humid:55
+
+Time passed : 1026.91 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:24.8 Humid:54
+
+Time passed : 1028.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:24.8 Humid:54
+
+Time passed : 1028.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:24.9 Humid:54
+
+Time passed : 1030.11 min
+
+Data #24: Temp:24.8 Humid:54
+
+Time passed : 1030.88 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:24.8 Humid:54
+
+Time passed : 1031.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:24.8 Humid:54
+
+Time passed : 1032.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:24.8 Humid:54
+
+Time passed : 1033.80 min
+
+Data #28: Temp:25.0 Humid:54
+
+Time passed : 1035.00 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:24.8 Humid:54
+
+Time passed : 1035.83 min
+
+Data #30: Temp:24.8 Humid:54
+
+Time passed : 1037.04 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:25.1 Humid:54
+
+Time passed : 1037.98 min
+
+Data #32: Temp:24.9 Humid:54
+
+Time passed : 1038.83 min
+
+Data #33: Temp:24.9 Humid:54
+
+Time passed : 1039.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:24.9 Humid:54
+
+Time passed : 1041.02 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:24.9 Humid:54
+
+Time passed : 1041.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:25.1 Humid:54
+
+Time passed : 1042.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:25.1 Humid:54
+
+Time passed : 1043.97 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:24.9 Humid:54
+
+Time passed : 1044.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:24.8 Humid:54
+
+Time passed : 1045.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:12.4 Humid:54
+
+Time passed : 1046.84 min
+
+Data #41: Temp:24.7 Humid:55
+
+Time passed : 1047.95 min
+
+Data #42: Temp:12.4 Humid:55
+
+Time passed : 1049.03 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:12.2 Humid:54
+
+Time passed : 1049.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:12.3 Humid:54
+
+Time passed : 1050.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:12.2 Humid:54
+
+Time passed : 1051.82 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:24.6 Humid:54
+
+Time passed : 1052.88 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:24.8 Humid:54
+
+Time passed : 1053.86 min
+
+Data #48: Temp:12.4 Humid:55
+
+Time passed : 1054.85 min
+
+Data #49: Temp:12.4 Humid:53
+
+Time passed : 1055.83 min
+
+Data #50: Temp:24.9 Humid:53
+
+Time passed : 1056.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:24.9 Humid:54
+
+Time passed : 1057.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:24.8 Humid:54
+
+Time passed : 1058.83 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:24.8 Humid:54
+
+Time passed : 1059.83 min
+
+Data #54: Temp:12.4 Humid:55
+
+Time passed : 1060.93 min
+
+Data #55: Temp:25.0 Humid:55
+
+Time passed : 1062.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:25.0 Humid:54
+
+Time passed : 1062.97 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:24.8 Humid:54
+
+Time passed : 1064.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:25.0 Humid:54
+
+Time passed : 1064.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:24.8 Humid:54
+
+Time passed : 1065.95 min
+-----------------18 hour has passed!------------------------
+
+Avg local temp:23.66 Avg local humidity:55.23 Local ET0:0.02
+
+CIMIS_ETO: 0.03 CIMIS_HUMIDITY: 58 CIMIS_TEMPERATURE: 22.06 
+
+Data #0: Temp:25.0 Humid:54
+
+Time passed : 1066.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:25.0 Humid:54
+
+Time passed : 1067.04 min
+
+Data #2: Temp:25.0 Humid:54
+
+Time passed : 1068.11 min
+
+Data #3: Temp:25.0 Humid:55
+
+Time passed : 1069.13 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:25.0 Humid:54
+
+Time passed : 1070.04 min
+
+Data #5: Temp:25.0 Humid:55
+
+Time passed : 1071.04 min
+
+Data #6: Temp:25.0 Humid:55
+
+Time passed : 1072.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:24.8 Humid:54
+
+Time passed : 1073.04 min
+
+Amount of water needed to irrigate without adjustment: 37.20
+
+Amount of water needed to irrigate with adjustment: 34.68
+
+Turing pump ON for 0.85 min
+----------------Turning Pump off ----------------------
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:24.8 Humid:54
+
+Time passed : 1074.36 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:24.9 Humid:54
+
+Time passed : 1075.04 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:24.8 Humid:54
+
+Time passed : 1076.19 min
+
+Data #11: Temp:25.0 Humid:55
+
+Time passed : 1077.10 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:24.8 Humid:54
+
+Time passed : 1078.08 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:25.0 Humid:54
+
+Time passed : 1079.04 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:24.8 Humid:54
+
+Time passed : 1080.06 min
+
+Data #15: Temp:25.1 Humid:54
+
+Time passed : 1081.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:25.1 Humid:54
+
+Time passed : 1082.12 min
+
+Data #17: Temp:25.1 Humid:54
+
+Time passed : 1083.08 min
+
+Data #18: Temp:24.9 Humid:52
+
+Time passed : 1084.05 min
+
+Data #19: Temp:25.2 Humid:54
+
+Time passed : 1085.10 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:25.2 Humid:54
+
+Time passed : 1086.14 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:25.2 Humid:54
+
+Time passed : 1087.11 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:24.9 Humid:54
+
+Time passed : 1088.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:25.2 Humid:54
+
+Time passed : 1089.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:25.2 Humid:54
+
+Time passed : 1090.05 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:25.3 Humid:54
+
+Time passed : 1091.05 min
+
+Data #26: Temp:25.3 Humid:54
+
+Time passed : 1092.11 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #27: Temp:25.0 Humid:54
+
+Time passed : 1093.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:25.0 Humid:54
+
+Time passed : 1094.06 min
+
+Data #29: Temp:24.9 Humid:54
+
+Time passed : 1095.10 min
+
+Data #30: Temp:25.1 Humid:54
+
+Time passed : 1096.10 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:24.9 Humid:54
+
+Time passed : 1097.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:24.9 Humid:54
+
+Time passed : 1098.06 min
+
+Data #33: Temp:24.9 Humid:52
+
+Time passed : 1099.06 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:25.2 Humid:54
+
+Time passed : 1100.08 min
+
+Data #35: Temp:25.3 Humid:53
+
+Time passed : 1101.18 min
+
+Data #36: Temp:25.4 Humid:53
+
+Time passed : 1102.58 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:25.5 Humid:54
+
+Time passed : 1103.14 min
+
+Data #38: Temp:25.5 Humid:53
+
+Time passed : 1104.08 min
+
+Data #39: Temp:25.3 Humid:53
+
+Time passed : 1105.30 min
+
+Data #40: Temp:25.4 Humid:53
+
+Time passed : 1106.09 min
+
+Data #41: Temp:25.3 Humid:53
+
+Time passed : 1107.49 min
+
+Data #42: Temp:25.4 Humid:53
+
+Time passed : 1108.28 min
+
+Data #43: Temp:25.5 Humid:53
+
+Time passed : 1109.41 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:25.6 Humid:54
+
+Time passed : 1110.60 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:25.5 Humid:54
+
+Time passed : 1111.19 min
+
+Data #46: Temp:25.1 Humid:53
+
+Time passed : 1112.09 min
+
+Data #47: Temp:25.4 Humid:53
+
+Time passed : 1113.53 min
+
+Data #48: Temp:25.6 Humid:53
+
+Time passed : 1114.25 min
+
+Data #49: Temp:25.5 Humid:51
+
+Time passed : 1115.08 min
+
+Data #50: Temp:25.4 Humid:53
+
+Time passed : 1116.10 min
+
+Data #51: Temp:25.5 Humid:53
+
+Time passed : 1117.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:25.5 Humid:54
+
+Time passed : 1118.25 min
+
+Data #53: Temp:25.1 Humid:53
+
+Time passed : 1119.14 min
+
+Data #54: Temp:25.6 Humid:51
+
+Time passed : 1120.08 min
+
+Data #55: Temp:25.6 Humid:53
+
+Time passed : 1121.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:25.7 Humid:54
+
+Time passed : 1122.08 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:25.6 Humid:54
+
+Time passed : 1123.08 min
+
+Data #58: Temp:25.1 Humid:52
+
+Time passed : 1124.10 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:25.1 Humid:54
+
+Time passed : 1125.12 min
+
+-----------------19 hour has passed!------------------------
+
+Avg local temp:25.58 Avg local humidity:54.54 Local ET0: 0.03
+
+CIMIS_ETO: 0.03 CIMIS_HUMIDITY: 51 CIMIS_TEMPERATURE: 22.17 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:25.1 Humid:54
+
+Time passed : 1125.24 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:25.7 Humid:54
+
+Time passed : 1126.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #2: Temp:25.1 Humid:54
+
+Time passed : 1127.21 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:25.1 Humid:54
+
+Time passed : 1128.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:25.1 Humid:54
+
+Time passed : 1129.21 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #5: Temp:25.1 Humid:54
+
+Time passed : 1130.23 min
+
+Data #6: Temp:25.7 Humid:52
+
+Time passed : 1131.27 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:25.7 Humid:54
+
+Time passed : 1132.21 min
+
+Amount of water needed to irrigate without adjustment: 37.20
+
+Amount of water needed to irrigate with adjustment: 37.20
+
+Turing pump ON for 0.78 min
+----------------Turning Pump off ----------------------
+
+Data #8: Temp:25.6 Humid:52
+
+Time passed : 1133.26 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:25.200000000000003 Humid:54
+
+Time passed : 1134.36 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:25.200000000000003 Humid:54
+
+Time passed : 1135.32 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:25.8 Humid:54
+
+Time passed : 1136.34 min
+
+Data #12: Temp:25.200000000000003 Humid:50
+
+Time passed : 1137.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:25.7 Humid:54
+
+Time passed : 1138.32 min
+
+Data #14: Temp:25.200000000000003 Humid:50
+
+Time passed : 1139.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:25.7 Humid:54
+
+Time passed : 1140.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:25.8 Humid:54
+
+Time passed : 1141.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:25.8 Humid:54
+
+Time passed : 1142.23 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:25.8 Humid:54
+
+Time passed : 1143.23 min
+
+Data #19: Temp:26.0 Humid:52
+
+Time passed : 1144.73 min
+
+Data #20: Temp:25.9 Humid:52
+
+Time passed : 1145.39 min
+
+Data #21: Temp:25.9 Humid:52
+
+Time passed : 1146.44 min
+
+Data #22: Temp:26.0 Humid:50
+
+Time passed : 1147.24 min
+
+Data #23: Temp:25.9 Humid:52
+
+Time passed : 1148.30 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:13.0 Humid:54
+
+Time passed : 1149.49 min
+
+Data #25: Temp:26.1 Humid:52
+
+Time passed : 1150.26 min
+
+Data #26: Temp:13.0 Humid:52
+
+Time passed : 1151.34 min
+
+Data #27: Temp:26.0 Humid:53
+
+Time passed : 1152.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:13.0 Humid:54
+
+Time passed : 1153.24 min
+
+Data #29: Temp:26.0 Humid:51
+
+Time passed : 1154.24 min
+
+Data #30: Temp:13.0 Humid:51
+
+Time passed : 1155.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:26.0 Humid:54
+
+Time passed : 1156.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:13.0 Humid:54
+
+Time passed : 1157.27 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:26.0 Humid:54
+
+Time passed : 1158.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:26.0 Humid:54
+
+Time passed : 1159.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:13.0 Humid:54
+
+Time passed : 1160.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:13.0 Humid:54
+
+Time passed : 1161.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:26.0 Humid:54
+
+Time passed : 1162.27 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #38: Temp:13.0 Humid:54
+
+Time passed : 1163.35 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:13.0 Humid:54
+
+Time passed : 1164.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:26.1 Humid:54
+
+Time passed : 1165.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:13.0 Humid:54
+
+Time passed : 1166.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:26.1 Humid:54
+
+Time passed : 1167.28 min
+
+Data #43: Temp:26.1 Humid:52
+
+Time passed : 1168.28 min
+
+Data #44: Temp:13.0 Humid:52
+
+Time passed : 1169.28 min
+
+Data #45: Temp:13.0 Humid:50
+
+Time passed : 1170.26 min
+
+Data #46: Temp:13.0 Humid:50
+
+Time passed : 1171.26 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:26.1 Humid:54
+
+Time passed : 1172.26 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:26.2 Humid:54
+
+Time passed : 1173.32 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:26.3 Humid:54
+
+Time passed : 1174.29 min
+
+Data #50: Temp:13.1 Humid:51
+
+Time passed : 1175.29 min
+
+Data #51: Temp:26.3 Humid:51
+
+Time passed : 1176.50 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:26.3 Humid:54
+
+Time passed : 1177.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:26.2 Humid:54
+
+Time passed : 1178.27 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:26.1 Humid:54
+
+Time passed : 1179.27 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:13.0 Humid:54
+
+Time passed : 1180.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:13.0 Humid:54
+
+Time passed : 1181.31 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:13.1 Humid:54
+
+Time passed : 1182.27 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:13.0 Humid:54
+
+Time passed : 1183.29 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:26.1 Humid:54
+
+Time passed : 1184.28 min
+
+-----------------20 hour has passed!------------------------
+
+Avg local temp:22.38 Avg local humidity:54.03 Local ET0: 0.02
+
+CIMIS_ETO: 0.03 CIMIS_HUMIDITY: 60 CIMIS_TEMPERATURE: 22.28 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:26.1 Humid:52
+
+Time passed : 1184.43 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:26.0 Humid:54
+
+Time passed : 1185.49 min
+
+Data #2: Temp:26.1 Humid:51
+
+Time passed : 1186.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:26.0 Humid:54
+
+Time passed : 1187.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #4: Temp:26.1 Humid:54
+
+Time passed : 1188.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #5: Temp:26.1 Humid:54
+
+Time passed : 1189.42 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:26.0 Humid:54
+
+Time passed : 1190.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:13.0 Humid:54
+
+Time passed : 1191.42 min
+
+Amount of water needed to irrigate without adjustment: 37.20
+
+Amount of water needed to irrigate with adjustment: 37.03
+
+Turing pump ON for 0.88 min
+----------------Turning Pump off ----------------------
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:13.0 Humid:54
+
+Time passed : 1192.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:13.0 Humid:54
+
+Time passed : 1193.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:13.0 Humid:54
+
+Time passed : 1194.48 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:26.0 Humid:54
+
+Time passed : 1195.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #12: Temp:26.0 Humid:54
+
+Time passed : 1196.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:26.0 Humid:54
+
+Time passed : 1197.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:26.0 Humid:54
+
+Time passed : 1198.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:26.2 Humid:54
+
+Time passed : 1199.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:26.1 Humid:54
+
+Time passed : 1200.50 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #17: Temp:13.1 Humid:54
+
+Time passed : 1201.54 min
+
+Data #18: Temp:13.1 Humid:53
+
+Time passed : 1202.49 min
+
+Data #19: Temp:13.0 Humid:52
+
+Time passed : 1203.45 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:13.0 Humid:54
+
+Time passed : 1204.75 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:26.0 Humid:54
+
+Time passed : 1205.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:26.1 Humid:54
+
+Time passed : 1206.51 min
+
+Data #23: Temp:26.1 Humid:54
+
+Time passed : 1207.45 min
+
+Data #24: Temp:26.0 Humid:56
+
+Time passed : 1208.55 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:26.0 Humid:54
+
+Time passed : 1209.55 min
+
+Data #26: Temp:26.0 Humid:53
+
+Time passed : 1210.45 min
+
+Data #27: Temp:25.8 Humid:55
+
+Time passed : 1211.49 min
+
+Data #28: Temp:25.9 Humid:55
+
+Time passed : 1212.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:25.9 Humid:54
+
+Time passed : 1213.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:26.0 Humid:54
+
+Time passed : 1214.48 min
+
+Data #31: Temp:26.0 Humid:55
+
+Time passed : 1215.50 min
+
+Data #32: Temp:26.1 Humid:55
+
+Time passed : 1216.51 min
+
+Data #33: Temp:26.1 Humid:53
+
+Time passed : 1217.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #34: Temp:13.0 Humid:54
+
+Time passed : 1218.52 min
+
+Data #35: Temp:26.1 Humid:53
+
+Time passed : 1219.46 min
+
+Data #36: Temp:13.0 Humid:53
+
+Time passed : 1220.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:13.0 Humid:54
+
+Time passed : 1221.52 min
+
+Data #38: Temp:26.1 Humid:53
+
+Time passed : 1222.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #39: Temp:26.0 Humid:54
+
+Time passed : 1223.46 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:26.0 Humid:54
+
+Time passed : 1224.47 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #41: Temp:13.0 Humid:54
+
+Time passed : 1225.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:26.1 Humid:54
+
+Time passed : 1226.54 min
+
+Data #43: Temp:13.0 Humid:54
+
+Time passed : 1227.53 min
+
+Data #44: Temp:13.0 Humid:54
+
+Time passed : 1228.53 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #45: Temp:13.0 Humid:54
+
+Time passed : 1229.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:26.0 Humid:54
+
+Time passed : 1230.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:13.0 Humid:54
+
+Time passed : 1231.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:26.1 Humid:54
+
+Time passed : 1232.49 min
+
+Data #49: Temp:26.1 Humid:52
+
+Time passed : 1233.47 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:13.0 Humid:54
+
+Time passed : 1234.48 min
+
+Data #51: Temp:26.3 Humid:54
+
+Time passed : 1235.49 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #52: Temp:26.3 Humid:54
+
+Time passed : 1236.48 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:13.2 Humid:54
+
+Time passed : 1237.61 min
+
+Data #54: Temp:26.4 Humid:53
+
+Time passed : 1238.54 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:26.5 Humid:54
+
+Time passed : 1239.50 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #56: Temp:26.6 Humid:54
+
+Time passed : 1240.48 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:26.4 Humid:54
+
+Time passed : 1241.52 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:26.4 Humid:54
+
+Time passed : 1242.48 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:26.3 Humid:54
+
+Time passed : 1243.48 min
+-----------------21 hour has passed!------------------------
+
+Avg local temp:22.55 Avg local humidity:54.73 Local ET0: 0.02
+
+CIMIS_ETO: 0.03 CIMIS_HUMIDITY: 58 CIMIS_TEMPERATURE: 22.50 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:13.2 Humid:53
+
+Time passed : 1243.62 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:13.2 Humid:53
+
+Time passed : 1244.66 min
+
+Data #2: Temp:13.2 Humid:53
+
+Time passed : 1245.70 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:13.3 Humid:53
+
+Time passed : 1246.64 min
+
+Data #4: Temp:26.6 Humid:53
+
+Time passed : 1247.70 min
+
+Data #5: Temp:26.6 Humid:51
+
+Time passed : 1248.61 min
+
+Data #6: Temp:13.3 Humid:53
+
+Time passed : 1249.65 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:13.3 Humid:53
+
+Time passed : 1250.63 min
+
+Amount of water needed to irrigate without adjustment: 37.20
+
+Amount of water needed to irrigate with adjustment: 37.11
+
+Turing pump ON for 0.89 min
+----------------Turning Pump off ----------------------
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:13.3 Humid:53
+
+Time passed : 1251.79 min
+
+Data #9: Temp:13.3 Humid:52
+
+Time passed : 1252.66 min
+
+Data #10: Temp:26.8 Humid:52
+
+Time passed : 1253.80 min
+
+Data #11: Temp:13.3 Humid:53
+
+Time passed : 1254.78 min
+
+Data #12: Temp:26.7 Humid:53
+
+Time passed : 1255.65 min
+
+Data #13: Temp:26.7 Humid:53
+
+Time passed : 1256.67 min
+
+Data #14: Temp:13.3 Humid:53
+
+Time passed : 1257.69 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:26.7 Humid:53
+
+Time passed : 1258.67 min
+
+Data #16: Temp:26.7 Humid:53
+
+Time passed : 1259.76 min
+
+Data #17: Temp:13.4 Humid:53
+
+Time passed : 1260.75 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #18: Temp:13.4 Humid:53
+
+Time passed : 1261.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #19: Temp:13.4 Humid:53
+
+Time passed : 1262.67 min
+
+Data #20: Temp:13.4 Humid:53
+
+Time passed : 1263.71 min
+
+Data #21: Temp:13.4 Humid:53
+
+Time passed : 1264.71 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:25.8 Humid:53
+
+Time passed : 1265.68 min
+
+Data #23: Temp:27.1 Humid:55
+
+Time passed : 1266.83 min
+
+Data #24: Temp:27.2 Humid:55
+
+Time passed : 1267.66 min
+
+Data #25: Temp:27.0 Humid:56
+
+Time passed : 1268.68 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:27.2 Humid:53
+
+Time passed : 1269.66 min
+
+Data #27: Temp:25.9 Humid:56
+
+Time passed : 1270.66 min
+
+Data #28: Temp:27.3 Humid:56
+
+Time passed : 1271.66 min
+
+Data #29: Temp:27.4 Humid:55
+
+Time passed : 1272.64 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:26.0 Humid:53
+
+Time passed : 1273.66 min
+
+Data #31: Temp:27.5 Humid:57
+
+Time passed : 1274.84 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #32: Temp:26.1 Humid:53
+
+Time passed : 1275.86 min
+
+Data #33: Temp:27.6 Humid:57
+
+Time passed : 1276.76 min
+
+Data #34: Temp:27.6 Humid:57
+
+Time passed : 1277.69 min
+
+Data #35: Temp:27.5 Humid:57
+
+Time passed : 1278.74 min
+
+Data #36: Temp:27.6 Humid:57
+
+Time passed : 1279.80 min
+
+Data #37: Temp:27.6 Humid:57
+
+Time passed : 1280.75 min
+
+Data #38: Temp:27.6 Humid:56
+
+Time passed : 1281.86 min
+
+Data #39: Temp:27.5 Humid:55
+
+Time passed : 1282.79 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:25.9 Humid:53
+
+Time passed : 1283.79 min
+
+Data #41: Temp:27.2 Humid:54
+
+Time passed : 1284.85 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #42: Temp:25.9 Humid:53
+
+Time passed : 1285.69 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #43: Temp:27.1 Humid:53
+
+Time passed : 1286.71 min
+
+Data #44: Temp:25.9 Humid:55
+
+Time passed : 1287.70 min
+
+Data #45: Temp:25.9 Humid:56
+
+Time passed : 1288.68 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:27.2 Humid:53
+
+Time passed : 1289.70 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:27.4 Humid:53
+
+Time passed : 1290.78 min
+
+Data #48: Temp:27.5 Humid:57
+
+Time passed : 1291.72 min
+
+Data #49: Temp:27.6 Humid:56
+
+Time passed : 1292.66 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #50: Temp:27.6 Humid:53
+
+Time passed : 1293.66 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #51: Temp:27.6 Humid:53
+
+Time passed : 1294.67 min
+
+Data #52: Temp:27.7 Humid:57
+
+Time passed : 1295.89 min
+
+Data #53: Temp:27.7 Humid:57
+
+Time passed : 1296.76 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:14.0 Humid:53
+
+Time passed : 1298.07 min
+
+Data #55: Temp:14.0 Humid:57
+
+Time passed : 1298.88 min
+
+Data #56: Temp:14.0 Humid:57
+
+Time passed : 1299.75 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:27.9 Humid:53
+
+Time passed : 1300.71 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #58: Temp:26.200000000000003 Humid:53
+
+Time passed : 1301.69 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #59: Temp:26.1 Humid:53
+
+Time passed : 1302.67 min
+
+-----------------22 hour has passed!------------------------
+Avg local temp:23.28 Avg local humidity:55.06 Local ET0: 0.01
+
+CIMIS_ETO: 0.02 CIMIS_HUMIDITY: 56 CIMIS_TEMPERATURE: 22.67 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:27.7 Humid:56
+
+Time passed : 1302.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #1: Temp:27.7 Humid:56
+
+Time passed : 1303.93 min
+
+Data #2: Temp:27.8 Humid:56
+
+Time passed : 1304.89 min
+
+Data #3: Temp:26.200000000000003 Humid:56
+
+Time passed : 1305.97 min
+
+Data #4: Temp:27.7 Humid:56
+
+Time passed : 1306.97 min
+
+Data #5: Temp:27.7 Humid:56
+
+Time passed : 1307.87 min
+
+Data #6: Temp:27.7 Humid:56
+
+Time passed : 1308.93 min
+
+Data #7: Temp:27.7 Humid:56
+
+Time passed : 1309.91 min
+
+Amount of water needed to irrigate without adjustment: 24.80
+
+Amount of water needed to irrigate with adjustment: 24.15
+
+Turing pump ON for 0.58 min
+----------------Turning Pump off ----------------------
+
+Data #8: Temp:27.8 Humid:56
+
+Time passed : 1310.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:26.200000000000003 Humid:56
+
+Time passed : 1311.87 min
+
+Data #10: Temp:27.9 Humid:57
+
+Time passed : 1312.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #11: Temp:28.0 Humid:56
+
+Time passed : 1314.16 min
+
+Data #12: Temp:28.0 Humid:58
+
+Time passed : 1314.99 min
+
+Data #13: Temp:14.0 Humid:58
+
+Time passed : 1315.89 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:28.0 Humid:56
+
+Time passed : 1316.99 min
+
+Data #15: Temp:14.0 Humid:57
+
+Time passed : 1317.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #16: Temp:28.0 Humid:56
+
+Time passed : 1318.90 min
+
+Data #17: Temp:14.0 Humid:57
+
+Time passed : 1319.88 min
+
+Data #18: Temp:28.0 Humid:57
+
+Time passed : 1320.88 min
+
+Data #19: Temp:28.0 Humid:55
+
+Time passed : 1322.13 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:28.0 Humid:56
+
+Time passed : 1323.07 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:14.0 Humid:56
+
+Time passed : 1323.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #22: Temp:28.0 Humid:56
+
+Time passed : 1324.86 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #23: Temp:28.0 Humid:56
+
+Time passed : 1325.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #24: Temp:28.0 Humid:56
+
+Time passed : 1326.87 min
+
+Data #25: Temp:14.0 Humid:56
+
+Time passed : 1327.96 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #26: Temp:14.0 Humid:56
+
+Time passed : 1328.87 min
+
+Data #27: Temp:28.0 Humid:55
+
+Time passed : 1329.95 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #28: Temp:14.0 Humid:56
+
+Time passed : 1330.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #29: Temp:28.1 Humid:56
+
+Time passed : 1331.97 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #30: Temp:14.0 Humid:56
+
+Time passed : 1332.87 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:14.0 Humid:56
+
+Time passed : 1333.89 min
+
+Data #32: Temp:14.0 Humid:54
+
+Time passed : 1334.91 min
+
+Data #33: Temp:14.0 Humid:54
+
+Time passed : 1335.90 min
+
+Data #34: Temp:27.8 Humid:52
+
+Time passed : 1337.09 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #35: Temp:26.200000000000003 Humid:56
+
+Time passed : 1337.99 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #36: Temp:26.1 Humid:56
+
+Time passed : 1338.92 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #37: Temp:27.7 Humid:56
+
+Time passed : 1339.92 min
+
+Data #38: Temp:27.6 Humid:55
+
+Time passed : 1340.99 min
+
+Data #39: Temp:27.6 Humid:55
+
+Time passed : 1342.00 min
+
+Data #40: Temp:26.1 Humid:56
+
+Time passed : 1342.98 min
+
+Data #41: Temp:26.1 Humid:55
+
+Time passed : 1343.98 min
+
+Data #42: Temp:27.8 Humid:54
+
+Time passed : 1345.36 min
+
+Data #43: Temp:27.9 Humid:55
+
+Time passed : 1345.96 min
+
+Data #44: Temp:27.7 Humid:55
+
+Time passed : 1347.08 min
+
+Data #45: Temp:26.1 Humid:56
+
+Time passed : 1347.95 min
+
+Data #46: Temp:26.1 Humid:56
+
+Time passed : 1348.93 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #47: Temp:27.8 Humid:56
+
+Time passed : 1350.08 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #48: Temp:26.200000000000003 Humid:56
+
+Time passed : 1351.02 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #49: Temp:27.7 Humid:56
+
+Time passed : 1352.01 min
+
+Data #50: Temp:27.7 Humid:56
+
+Time passed : 1353.05 min
+
+Data #51: Temp:27.8 Humid:57
+
+Time passed : 1354.01 min
+
+Data #52: Temp:27.6 Humid:57
+
+Time passed : 1355.03 min
+
+Data #53: Temp:27.7 Humid:55
+
+Time passed : 1355.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #54: Temp:27.6 Humid:56
+
+Time passed : 1356.90 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #55: Temp:27.6 Humid:56
+
+Time passed : 1357.90 min
+
+Data #56: Temp:27.7 Humid:56
+
+Time passed : 1359.28 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #57: Temp:27.9 Humid:56
+
+Time passed : 1359.98 min
+
+Data #58: Temp:26.200000000000003 Humid:57
+
+Time passed : 1360.92 min
+
+Data #59: Temp:27.7 Humid:58
+
+Time passed : 1361.92 min
+
+-----------------23 hour has passed!------------------------
+Avg local temp:25.39 Avg local humidity:56.83 Local ET0: 0.01
+
+CIMIS_ETO: 0.02 CIMIS_HUMIDITY: 58 CIMIS_TEMPERATURE: 22.83 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:27.8 Humid:57
+
+Time passed : 1362.06 min
+
+Data #1: Temp:26.200000000000003 Humid:57
+
+Time passed : 1363.04 min
+
+Data #2: Temp:26.200000000000003 Humid:57
+
+Time passed : 1364.04 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #3: Temp:27.9 Humid:57
+
+Time passed : 1365.06 min
+
+Data #4: Temp:27.8 Humid:56
+
+Time passed : 1366.04 min
+
+Data #5: Temp:27.7 Humid:57
+
+Time passed : 1367.08 min
+
+Data #6: Temp:27.7 Humid:55
+
+Time passed : 1368.04 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:27.7 Humid:57
+
+Time passed : 1369.05 min
+
+Amount of water needed to irrigate without adjustment: 24.80
+
+Amount of water needed to irrigate with adjustment: 22.29
+
+Turing pump ON for 0.54 min
+----------------Turning Pump off ----------------------
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:27.6 Humid:57
+
+Time passed : 1370.06 min
+
+Data #9: Temp:27.7 Humid:57
+
+Time passed : 1371.34 min
+
+Data #10: Temp:27.7 Humid:57
+
+Time passed : 1372.35 min
+
+Data #11: Temp:27.9 Humid:57
+
+Time passed : 1373.21 min
+
+Data #12: Temp:27.8 Humid:57
+
+Time passed : 1374.20 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #13: Temp:26.200000000000003 Humid:57
+
+Time passed : 1375.16 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #14: Temp:27.7 Humid:57
+
+Time passed : 1376.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #15: Temp:27.7 Humid:57
+
+Time passed : 1377.08 min
+
+Data #16: Temp:27.6 Humid:57
+
+Time passed : 1378.16 min
+
+Data #17: Temp:26.1 Humid:55
+
+Time passed : 1379.22 min
+
+Data #18: Temp:26.0 Humid:56
+
+Time passed : 1380.30 min
+
+Data #19: Temp:27.5 Humid:56
+
+Time passed : 1381.07 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #20: Temp:26.0 Humid:57
+
+Time passed : 1382.39 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #21: Temp:27.6 Humid:57
+
+Time passed : 1383.07 min
+
+Data #22: Temp:27.5 Humid:57
+
+Time passed : 1384.26 min
+
+Data #23: Temp:26.1 Humid:57
+
+Time passed : 1385.11 min
+
+Data #24: Temp:27.6 Humid:57
+
+Time passed : 1386.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #25: Temp:26.1 Humid:57
+
+Time passed : 1387.19 min
+
+Data #26: Temp:27.6 Humid:55
+
+Time passed : 1388.08 min
+
+Data #27: Temp:27.5 Humid:55
+
+Time passed : 1389.08 min
+
+Data #28: Temp:27.3 Humid:57
+
+Time passed : 1390.14 min
+
+Data #29: Temp:27.4 Humid:56
+
+Time passed : 1391.08 min
+
+Data #30: Temp:27.4 Humid:57
+
+Time passed : 1392.12 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #31: Temp:26.1 Humid:57
+
+Time passed : 1393.23 min
+
+Data #32: Temp:27.6 Humid:57
+
+Time passed : 1394.44 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #33: Temp:27.6 Humid:57
+
+Time passed : 1395.14 min
+
+Data #34: Temp:26.1 Humid:57
+
+Time passed : 1396.28 min
+
+Data #35: Temp:27.6 Humid:57
+
+Time passed : 1397.16 min
+
+Data #36: Temp:27.6 Humid:56
+
+Time passed : 1398.16 min
+
+Data #37: Temp:27.5 Humid:56
+
+Time passed : 1399.14 min
+
+Data #38: Temp:27.5 Humid:57
+
+Time passed : 1400.20 min
+
+Data #39: Temp:27.5 Humid:58
+
+Time passed : 1401.13 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #40: Temp:27.6 Humid:57
+
+Time passed : 1402.17 min
+
+Data #41: Temp:26.1 Humid:57
+
+Time passed : 1403.11 min
+
+Data #42: Temp:27.6 Humid:57
+
+Time passed : 1404.53 min
+
+Data #43: Temp:26.200000000000003 Humid:58
+
+Time passed : 1405.25 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #44: Temp:27.7 Humid:57
+
+Time passed : 1406.13 min
+
+Data #45: Temp:27.7 Humid:57
+
+Time passed : 1407.15 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #46: Temp:27.8 Humid:57
+
+Time passed : 1408.12 min
+
+Data #47: Temp:27.9 Humid:56
+
+Time passed : 1409.14 min
+
+Data #48: Temp:27.8 Humid:56
+
+Time passed : 1410.20 min
+
+Data #49: Temp:27.7 Humid:57
+
+Time passed : 1411.12 min
+
+Data #50: Temp:27.7 Humid:57
+
+Time passed : 1412.25 min
+
+Data #51: Temp:27.8 Humid:58
+
+Time passed : 1413.46 min
+
+Data #52: Temp:27.9 Humid:57
+
+Time passed : 1414.18 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #53: Temp:27.9 Humid:57
+
+Time passed : 1415.47 min
+
+Data #54: Temp:28.1 Humid:56
+
+Time passed : 1416.11 min
+
+Data #55: Temp:27.9 Humid:57
+
+Time passed : 1417.16 min
+
+Data #56: Temp:27.9 Humid:58
+
+Time passed : 1418.28 min
+
+Data #57: Temp:28.0 Humid:58
+
+Time passed : 1419.15 min
+
+Data #58: Temp:27.9 Humid:57
+
+Time passed : 1420.13 min
+
+Data #59: Temp:14.0 Humid:58
+
+Time passed : 1421.40 min
+
+-----------------24 hour has passed!------------------------
+Avg local temp:27.57 Avg local humidity:57.76 Local ET0: 0.00
+
+CIMIS_ETO: 0.01 CIMIS_HUMIDITY: 56 CIMIS_TEMPERATURE: 23.00 
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #0: Temp:28.1 Humid:58
+
+Time passed : 1421.55 min
+
+Data #1: Temp:28.1 Humid:59
+
+Time passed : 1422.65 min
+
+Data #2: Temp:28.0 Humid:57
+
+Time passed : 1423.63 min
+
+Data #3: Temp:27.8 Humid:57
+
+Time passed : 1424.63 min
+
+Data #4: Temp:26.200000000000003 Humid:58
+
+Time passed : 1425.56 min
+
+Data #5: Temp:27.9 Humid:58
+
+Time passed : 1426.63 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #6: Temp:27.9 Humid:58
+
+Time passed : 1427.64 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #7: Temp:28.0 Humid:58
+
+Time passed : 1428.54 min
+
+Amount of water needed to irrigate without adjustment: 12.40
+
+Amount of water needed to irrigate with adjustment: 10.34
+
+Turing pump ON for 0.25 min
+----------------Turning Pump off ----------------------
+
+Printing Daily report...
+
+Done printing daily report
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #8: Temp:14.0 Humid:58
+
+Time passed : 1429.59 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #9: Temp:28.1 Humid:58
+
+Time passed : 1430.56 min
+
+READ BAD HUMIDITY DATA. USING THE LAST VALID DATA!
+Data #10: Temp:28.0 Humid:58
+
+Time passed : 1431.56 min
+
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> 
